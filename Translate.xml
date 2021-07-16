@@ -86,7 +86,7 @@
 <Text name="msg_dump_psid_title">Realizar dump do PSID</Text>
 <Text name="msg_dump_psid_info">Salva o PSID no arquivo de log  </Text>
 <Text name="msg_log_klic_title">Registrar o uso do KLicensee</Text>
-<Text name="msg_log_klic_info">Salva o nome do arquivo e o Klicensee no arquivo de log  </Text>
+<Text name="msg_log_klic_info">Salva o nome do arquivo e o KLicensee no arquivo de log  </Text>
 <Text name="msg_log_secureid_title">Registrar o uso do "Secure File ID"</Text>
 <Text name="msg_log_secureid_info">Grava o nome dos dados salvos e a chave de ID do arquivo no arquivo de log  </Text>
 <Text name="msg_dump_disc_key_title">Realizar dump do hash do disco</Text>
