@@ -28,13 +28,13 @@
 <Text name="msg_dump_tools_title">Ferramentas de dump</Text>
 <Text name="msg_recovery_menu_title">Ferramentas de serviço</Text>
 <Text name="msg_ingame_settings_title">Configurações in-game</Text>
-<Text name="msg_fan_settings_title">Ferramentas de cooler</Text>
-<Text name="msg_fan_ps2_settings_title">Cooler no modo PS2</Text>
+<Text name="msg_fan_settings_title">Ferramentas de ventoinha</Text>
+<Text name="msg_fan_ps2_settings_title">Ventoinha no modo PS2</Text>
 <Text name="msg_soft_reboot_action_title">Reiniciar o sistema (rápido)</Text>
 <Text name="msg_hard_reboot_action_title">Reiniciar o sistema (completo)</Text>
 <Text name="msg_lv2_reboot_action_title">Reiniciar kernel</Text>
-<Text name="msg_fan_speed_title">Velocidade do cooler</Text>
-<Text name="msg_fan_speed_info">Mostra a velocidade atual do cooler  </Text>
+<Text name="msg_fan_speed_title">Velocidade da ventoinha</Text>
+<Text name="msg_fan_speed_info">Mostra a velocidade atual da ventoinha  </Text>
 <Text name="msg_show_temp_title">Temperatura do sistema</Text>
 <Text name="msg_show_temp_info">Mostra a temperatura atual da CPU e RSX  </Text>
 <Text name="msg_show_idps_title">Mostrar IDPS</Text>
@@ -45,38 +45,38 @@
 <Text name="msg_cobra_data_info">Mostra as informações atuais do payload Cobra  </Text>
 <Text name="msg_cobra_mode_title">Payload Cobra</Text>
 <Text name="msg_cobra_mode_info">Ativa/Desativa o payload Cobra  </Text>
-<Text name="msg_fan_mode_disabled_title">Modo de controle do cooler: DESATIVADO</Text>
-<Text name="msg_fan_mode_disabled_info">Desativa o controle do cooler  </Text>
-<Text name="msg_fan_mode_syscon_title">Modo de controle do cooler: SYSCON</Text>
-<Text name="msg_fan_mode_syscon_info">Permite que o SYSCON do console controle a velocidade do cooler  </Text>
-<Text name="msg_fan_mode_payload_title">Modo de controle do cooler: PAYLOAD</Text>
-<Text name="msg_fan_mode_payload_info">Permite que o payload Cobra controle a velocidade do cooler  </Text>
-<Text name="msg_fan_mode_manual_title">Modo de controle do cooler: MANUAL</Text>
-<Text name="msg_fan_mode_manual_info">Defina a velocidade do cooler para 0x70  </Text>
-<Text name="msg_fan_mode_max_title">Modo de controle do cooler: MAX</Text>
-<Text name="msg_fan_mode_max_info">Defina a velocidade do cooler para 0xFF  </Text>
-<Text name="msg_fan_ps2mode_disabled_title">Modo de controle do cooler no modo PS2: DESATIVADO</Text>
-<Text name="msg_fan_ps2mode_disabled_info">Desativa o controle do cooler no modo PS2  </Text>
-<Text name="msg_fan_ps2mode_syscon_title">Modo de controle do cooler no modo PS2: SYSCON</Text>
-<Text name="msg_fan_ps2mode_syscon_info">Permite que o SYSCON do PS3 controle a velocidade do cooler em jogos de PS2  </Text>
-<Text name="msg_fan_ps2mode_40_title">Modo de controle do cooler no modo PS2: 40%</Text>
-<Text name="msg_fan_ps2mode_40_info">Define a velocidade do cooler para para 0x66 em jogos de PS2  
-	  Não há controle do cooler em jogos de PS2, selecione com cuidado  </Text>
-<Text name="msg_fan_ps2mode_50_title">Modo de controle do cooler no modo PS2: 50%</Text>
-<Text name="msg_fan_ps2mode_50_info">Define a velocidade do cooler para 0x80 em jogos de PS2  
-	  Não há controle do cooler em jogos de PS2, selecione com cuidado  </Text>
-<Text name="msg_fan_ps2mode_60_title">Modo de controle do cooler no modo PS2: 60%</Text>
-<Text name="msg_fan_ps2mode_60_info">Define a velocidade do cooler para 0x9A em jogos de PS2  
-	  Não há controle do cooler em jogos de PS2, selecione com cuidado  </Text>
-<Text name="msg_fan_ps2mode_70_title">Modo de controle do cooler no modo PS2: 70%</Text>
-<Text name="msg_fan_ps2mode_70_info">Define a velocidade do cooler para 0xB4 em jogos de PS2  
-	  Não há controle do cooler em jogos de PS2, selecione com cuidado  </Text>
-<Text name="msg_fan_ps2mode_80_title">Modo de controle do cooler no modo PS2: 80%</Text>
-<Text name="msg_fan_ps2mode_80_info">Define a velocidade do cooler para 0xCE em jogos de PS2  
-	  Não há controle do cooler em jogos de PS2, selecione com cuidado  </Text>
-<Text name="msg_fan_ps2mode_90_title">Modo de controle do cooler no modo PS2: 90%</Text>
-<Text name="msg_fan_ps2mode_90_info">Define a velocidade do cooler para 0xE8 em jogos de PS2  
-	  Não há controle do cooler em  jogos de PS2, selecione com cuidado  </Text>
+<Text name="msg_fan_mode_disabled_title">Modo de controle da ventoinha: DESATIVADO</Text>
+<Text name="msg_fan_mode_disabled_info">Desativa o controle da ventoinha  </Text>
+<Text name="msg_fan_mode_syscon_title">Modo de controle da ventoinha: SYSCON</Text>
+<Text name="msg_fan_mode_syscon_info">Permite que o SYSCON do PS3 controle a velocidade da ventoinha  </Text>
+<Text name="msg_fan_mode_payload_title">Modo de controle da ventoinha: PAYLOAD</Text>
+<Text name="msg_fan_mode_payload_info">Permite que o payload Cobra controle a velocidade da ventoinha  </Text>
+<Text name="msg_fan_mode_manual_title">Modo de controle da ventoinha: MANUAL</Text>
+<Text name="msg_fan_mode_manual_info">Defina a velocidade da ventoinha para 0x70  </Text>
+<Text name="msg_fan_mode_max_title">Modo de controle da ventoinha: MAX</Text>
+<Text name="msg_fan_mode_max_info">Defina a velocidade da ventoinha para 0xFF  </Text>
+<Text name="msg_fan_ps2mode_disabled_title">Modo de controle da ventoinha no modo PS2: DESATIVADO</Text>
+<Text name="msg_fan_ps2mode_disabled_info">Desativa o controle da ventoinha no modo PS2  </Text>
+<Text name="msg_fan_ps2mode_syscon_title">Modo de controle da ventoinha no modo PS2: SYSCON</Text>
+<Text name="msg_fan_ps2mode_syscon_info">Permite que o SYSCON do PS3 controle a velocidade da ventoinha em jogos de PS2  </Text>
+<Text name="msg_fan_ps2mode_40_title">Velocidade da ventoinha no modo PS2: 40%</Text>
+<Text name="msg_fan_ps2mode_40_info">Define a velocidade da ventoinha para 0x66 em jogos de PS2  
+	  Não há controle da ventoinha em jogos de PS2, selecione com cuidado  </Text>
+<Text name="msg_fan_ps2mode_50_title">Velocidade da ventoinha no modo PS2: 50%</Text>
+<Text name="msg_fan_ps2mode_50_info">Define a velocidade da ventoinha para 0x80 em jogos de PS2  
+	  Não há controle da ventoinha em jogos de PS2, selecione com cuidado  </Text>
+<Text name="msg_fan_ps2mode_60_title">Velocidade da ventoinha no modo PS2: 60%</Text>
+<Text name="msg_fan_ps2mode_60_info">Define a velocidade da ventoinha para 0x9A em jogos de PS2  
+	  Não há controle da ventoinha em jogos de PS2, selecione com cuidado  </Text>
+<Text name="msg_fan_ps2mode_70_title">Velocidade da ventoinha no modo PS2: 70%</Text>
+<Text name="msg_fan_ps2mode_70_info">Define a velocidade da ventoinha para 0xB4 em jogos de PS2  
+	  Não há controle da ventoinha em jogos de PS2, selecione com cuidado  </Text>
+<Text name="msg_fan_ps2mode_80_title">Velocidade da ventoinha no modo PS2: 80%</Text>
+<Text name="msg_fan_ps2mode_80_info">Define a velocidade da ventoinha para 0xCE em jogos de PS2  
+	  Não há controle da ventoinha em jogos de PS2, selecione com cuidado  </Text>
+<Text name="msg_fan_ps2mode_90_title">Velocidade da ventoinha no modo PS2: 90%</Text>
+<Text name="msg_fan_ps2mode_90_info">Define a velocidade da ventoinha para 0xE8 em jogos de PS2  
+	  Não há controle da ventoinha em jogos de PS2, selecione com cuidado  </Text>
 <Text name="msg_view_log_title">Exibir arquivo de log</Text>
 <Text name="msg_view_log_info">Mostra o conteúdo do arquivo de log /dev_hdd0/tmp/cfw_settings.log (webMAN Mod necessário)</Text>
 <Text name="msg_clean_log_title">Limpar arquivo de log</Text>
@@ -187,47 +187,47 @@
 <Text name="msg_create_rif_title">Criar licenças</Text>
 <Text name="msg_create_rif_info">Cria licenças RIF de arquivos RAP existentes em "x:\exdata"  </Text>
 <Text name="msg_fan_mode_60_title">Temperatura máxima: 60°C</Text>
-<Text name="msg_fan_mode_60_info">Define a velocidade do cooler dinamicamente para manter o sistema a uma temperatura máxima de 60°C  </Text>
+<Text name="msg_fan_mode_60_info">Define a velocidade da ventoinha dinamicamente para manter o sistema a uma temperatura máxima de 60°C  </Text>
 <Text name="msg_fan_mode_65_title">Temperatura máxima: 65°C</Text>
-<Text name="msg_fan_mode_65_info">Define a velocidade do cooler dinamicamente para manter o sistema a uma temperatura máxima de 65°C  </Text>
+<Text name="msg_fan_mode_65_info">Define a velocidade da ventoinha dinamicamente para manter o sistema a uma temperatura máxima de 65°C  </Text>
 <Text name="msg_fan_mode_70_title">Temperatura máxima: 70°C</Text>
-<Text name="msg_fan_mode_70_info">Define a velocidade do cooler dinamicamente para manter o sistema a uma temperatura máxima de 70°C  </Text>
+<Text name="msg_fan_mode_70_info">Define a velocidade da ventoinha dinamicamente para manter o sistema a uma temperatura máxima de 70°C  </Text>
 <Text name="msg_fan_mode_75_title">Temperatura máxima: 75°C</Text>
-<Text name="msg_fan_mode_75_info">Define a velocidade do cooler dinamicamente para manter o sistema a uma temperatura máxima de 75°C  </Text>
-<Text name="msg_fan_dynamic_title">Controle do cooler dinâmico</Text>
+<Text name="msg_fan_mode_75_info">Define a velocidade da ventoinha dinamicamente para manter o sistema a uma temperatura máxima de 75°C  </Text>
+<Text name="msg_fan_dynamic_title">Controle da ventoinha dinâmico</Text>
 <Text name="msg_fan_manual_title">Velocidade manual</Text>
 <Text name="msg_fan_manual_40_title">Velocidade manual: 40%</Text>
-<Text name="msg_fan_manual_40_info">Define a velocidade do cooler estaticamente em 40% (0x67)  
+<Text name="msg_fan_manual_40_info">Define a velocidade da ventoinha estaticamente em 40% (0x67)  
 	  A velocidade escolhida será estática, não será alterada a qualquer momento automaticamente  </Text>
 <Text name="msg_fan_manual_45_title">Velocidade manual: 45%</Text>
-<Text name="msg_fan_manual_45_info">Define a velocidade do cooler estaticamente em 45% (0x75)  
+<Text name="msg_fan_manual_45_info">Define a velocidade da ventoinha estaticamente em 45% (0x75)  
 	  A velocidade escolhida será estática, não será alterada a qualquer momento automaticamente  </Text>
 <Text name="msg_fan_manual_50_title">Velocidade manual: 50%</Text>
-<Text name="msg_fan_manual_50_info">Define a velocidade do cooler estaticamente em 50% (0x80)  
+<Text name="msg_fan_manual_50_info">Define a velocidade da ventoinha estaticamente em 50% (0x80)  
 	  A velocidade escolhida será estática, não será alterado a qualquer momento automaticamente  </Text>
 <Text name="msg_fan_manual_55_title">Velocidade manual: 55%</Text>
-<Text name="msg_fan_manual_55_info">Define a velocidade do cooler estaticamente em 55% (0x8E)  
+<Text name="msg_fan_manual_55_info">Define a velocidade da ventoinha estaticamente em 55% (0x8E)  
 	  A velocidade escolhida será estática, não será alterada a qualquer momento automaticamente  </Text>
 <Text name="msg_fan_manual_60_title">Velocidade manual: 60%</Text>
-<Text name="msg_fan_manual_60_info">Define a velocidade do cooler estaticamente em 60% (0x9B)  
+<Text name="msg_fan_manual_60_info">Define a velocidade da ventoinha estaticamente em 60% (0x9B)  
 	  A velocidade escolhida será estática, não será alterada a qualquer momento automaticamente  </Text>
 <Text name="msg_fan_manual_65_title">Velocidade manual: 65%</Text>
-<Text name="msg_fan_manual_65_info">Define a velocidade do cooler estaticamente em 65% (0xA8)  
+<Text name="msg_fan_manual_65_info">Define a velocidade da ventoinha estaticamente em 65% (0xA8)  
 	  A velocidade escolhida será estática, não será alterada a qualquer momento automaticamente  </Text>
 <Text name="msg_fan_manual_70_title">Velocidade manual: 70%</Text>
-<Text name="msg_fan_manual_70_info">Define a velocidade do cooler estaticamente em 70% (0xB5)  
+<Text name="msg_fan_manual_70_info">Define a velocidade da ventoinha estaticamente em 70% (0xB5)  
 	  A velocidade escolhida será estática, não será alterada a qualquer momento automaticamente  </Text>
 <Text name="msg_fan_manual_75_title">Velocidade manual: 75%</Text>
-<Text name="msg_fan_manual_75_info">Define a velocidade do cooler estaticamente em 75% (0xC0)  
+<Text name="msg_fan_manual_75_info">Define a velocidade da ventoinha estaticamente em 75% (0xC0)  
 	  A velocidade escolhida será estática, não será alterada a qualquer momento automaticamente  </Text>
 <Text name="msg_fan_manual_80_title">Velocidade manual: 80%</Text>
-<Text name="msg_fan_manual_80_info">Define a velocidade do cooler estaticamente em 80% (0xCE)  
+<Text name="msg_fan_manual_80_info">Define a velocidade da ventoinha estaticamente em 80% (0xCE)  
 	  A velocidade escolhida será estática, não será alterada a qualquer momento automaticamente  </Text>
 <Text name="msg_fan_manual_85_title">Velocidade manual: 85%</Text>
-<Text name="msg_fan_manual_85_info">Define a velocidade do cooler estaticamente em 85% (0xDA)  
+<Text name="msg_fan_manual_85_info">Define a velocidade da ventoinha estaticamente em 85% (0xDA)  
 	  A velocidade escolhida será estática, não será alterada a qualquer momento automaticamente  </Text>
 <Text name="msg_fan_manual_90_title">Velocidade manual: 90%</Text>
-<Text name="msg_fan_manual_90_info">Define a velocidade do cooler estaticamente em 90% (0xE7)  
+<Text name="msg_fan_manual_90_info">Define a velocidade da ventoinha estaticamente em 90% (0xE7)  
 	  A velocidade escolhida será estática, não será alterada a qualquer momento automaticamente  </Text>
 <Text name="msg_cobra_version_title">Alternar Versão Cobra</Text>
 <Text name="msg_cobra_version_info">Alterna entre as versões de lançamento e depuração  </Text>
@@ -407,7 +407,7 @@
 <Text name="msg_sys_storage_open_error">Erro sys_storage_open</Text>
 <Text name="msg_auth_bd_drive_error">Erro de autenticação da unidade BD</Text>
 <Text name="msg_minimum_downgrade">Downgrade mínimo: %x.%02x</Text>
-<Text name="msg_fan_speed">Velocidade do Cooler: 0x%X [%i%%]</Text>
+<Text name="msg_fan_speed">Velocidade da ventoinha: 0x%X [%i%%]</Text>
 <Text name="msg_fan_temp">[CPU: %u°C] - [RSX: %u°C]</Text>
 <Text name="msg_syscalls_restore_disabled">Permitir restauração de syscalls desativado</Text>
 <Text name="msg_syscalls_restore_enabled">Permitir restauração de syscalls ativado</Text>
@@ -416,7 +416,7 @@
 <Text name="msg_account_act_deleted">Arquivo de ativação excluído com sucesso</Text>
 <Text name="msg_account_act_delete_error">Não foi possível remover o arquivo de ativação</Text>
 <Text name="msg_account_act_not_found">​​Não há arquivo de ativação nesta conta</Text>
-<Text name="msg_cobra_fan_mode_disabled">Controle do Cooler salvo: DESATIVADO</Text>
+<Text name="msg_cobra_fan_mode_disabled">Controle da ventoinha salvo: DESATIVADO</Text>
 <Text name="msg_cobra_fan_mode_syscon">Controle do de salvo: SYSCON</Text>
 <Text name="msg_cobra_fan_mode_payload">Controle do de salvo: PAYLOAD</Text>
 <Text name="msg_cobra_fan_mode_manual">Controle do de salvo: MANUAL</Text>
@@ -462,31 +462,31 @@
 <Text name="msg_error_unexpected">Erro inesperado</Text>
 <Text name="msg_kernel_loaded">Kernel carregado, reiniciando...</Text>
 <Text name="msg_kernel_failed">Não foi possível carregar o kernel</Text>
-<Text name="msg_cobra_fan_ps2mode_disabled">Velocidade do Cooler no modo PS2 definida: DESATIVADA</Text>
-<Text name="msg_cobra_fan_ps2mode_syscon">Velocidade do Cooler no modo PS2 definida SYSCON</Text>
-<Text name="msg_cobra_fan_ps2mode_40">Velocidade do Cooler no modo PS2 definida: 40%</Text>
-<Text name="msg_cobra_fan_ps2mode_50">Velocidade do Cooler no modo PS2 definida: 50%</Text>
-<Text name="msg_cobra_fan_ps2mode_60">Velocidade do Cooler no modo PS2 definida: 60%</Text>
-<Text name="msg_cobra_fan_ps2mode_70">Velocidade do Cooler no modo PS2 definida: 70%</Text>
-<Text name="msg_cobra_fan_ps2mode_80">Velocidade do Cooler no modo PS2 definida: 80%</Text>
-<Text name="msg_cobra_fan_ps2mode_90">Velocidade do Cooler no modo PS2 definida: 90%</Text>
+<Text name="msg_cobra_fan_ps2mode_disabled">Velocidade da ventoinha no modo PS2 definida: DESATIVADA</Text>
+<Text name="msg_cobra_fan_ps2mode_syscon">Velocidade da ventoinha no modo PS2 definida SYSCON</Text>
+<Text name="msg_cobra_fan_ps2mode_40">Velocidade da ventoinha no modo PS2 definida: 40%</Text>
+<Text name="msg_cobra_fan_ps2mode_50">Velocidade da ventoinha no modo PS2 definida: 50%</Text>
+<Text name="msg_cobra_fan_ps2mode_60">Velocidade da ventoinha no modo PS2 definida: 60%</Text>
+<Text name="msg_cobra_fan_ps2mode_70">Velocidade da ventoinha no modo PS2 definida: 70%</Text>
+<Text name="msg_cobra_fan_ps2mode_80">Velocidade da ventoinha no modo PS2 definida: 80%</Text>
+<Text name="msg_cobra_fan_ps2mode_90">Velocidade da ventoinha no modo PS2 definida: 90%</Text>
 <Text name="msg_cobra_enable_account_activated">Conta ativada</Text>
 <Text name="msg_cobra_enable_account_error">A conta não pôde ser ativada</Text>
 <Text name="msg_cobra_create_empty">Esta conta não tem um ID. Por favor, crie um ID falso por meio das "Ferramentas xRegistry"</Text>
 <Text name="msg_cobra_create_act_exist">Já existe um arquivo de ativação nesta conta. Exclua-o primeiro</Text>
 <Text name="msg_whats_new_enabled">Ativado com sucesso</Text>
 <Text name="msg_whats_new_disabled">Desativado com sucesso</Text>
-<Text name="msg_cobra_fan_manual_40">Velocidade manual do Cooler definida: 40%</Text>
-<Text name="msg_cobra_fan_manual_45">Velocidade manual do Cooler definida: 45%</Text>
-<Text name="msg_cobra_fan_manual_50">Velocidade manual do Cooler definida: 50%</Text>
-<Text name="msg_cobra_fan_manual_55">Velocidade manual do Cooler definida: 55%</Text>
-<Text name="msg_cobra_fan_manual_60">Velocidade manual do Cooler definida: 60%</Text>
-<Text name="msg_cobra_fan_manual_65">Velocidade manual do Cooler definida: 65%</Text>
-<Text name="msg_cobra_fan_manual_70">Velocidade manual do Cooler definida: 70%</Text>
-<Text name="msg_cobra_fan_manual_75">Velocidade manual do Cooler definida: 75%</Text>
-<Text name="msg_cobra_fan_manual_80">Velocidade manual do Cooler definida: 80%</Text>
-<Text name="msg_cobra_fan_manual_85">Velocidade manual do Cooler definida: 85%</Text>
-<Text name="msg_cobra_fan_manual_90">Velocidade manual do Cooler definida: 90%</Text>
+<Text name="msg_cobra_fan_manual_40">Velocidade manual da ventoinha definida: 40%</Text>
+<Text name="msg_cobra_fan_manual_45">Velocidade manual da ventoinha definida: 45%</Text>
+<Text name="msg_cobra_fan_manual_50">Velocidade manual da ventoinha definida: 50%</Text>
+<Text name="msg_cobra_fan_manual_55">Velocidade manual da ventoinha definida: 55%</Text>
+<Text name="msg_cobra_fan_manual_60">Velocidade manual da ventoinha definida: 60%</Text>
+<Text name="msg_cobra_fan_manual_65">Velocidade manual da ventoinha definida: 65%</Text>
+<Text name="msg_cobra_fan_manual_70">Velocidade manual da ventoinha definida: 70%</Text>
+<Text name="msg_cobra_fan_manual_75">Velocidade manual da ventoinha definida: 75%</Text>
+<Text name="msg_cobra_fan_manual_80">Velocidade manual da ventoinha definida: 80%</Text>
+<Text name="msg_cobra_fan_manual_85">Velocidade manual da ventoinha definida: 85%</Text>
+<Text name="msg_cobra_fan_manual_90">Velocidade manual da ventoinha definida: 90%</Text>
 <Text name="msg_cobra_fan_dynamic_60">Temperatura máxima definida: 60°C</Text>
 <Text name="msg_cobra_fan_dynamic_65">Temperatura máxima definida: 65°C</Text>
 <Text name="msg_cobra_fan_dynamic_70">Temperatura máxima definida: 70°C</Text>
