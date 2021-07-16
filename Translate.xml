@@ -423,8 +423,8 @@
 <Text name="msg_cobra_fan_mode_max">Controle do de salvo: MAX</Text>
 <Text name="msg_qa_check_enabled">As QA Flags estão ativadas</Text>
 <Text name="msg_qa_check_disabled">As QA Flags estão desativadas</Text>
-<Text name="msg_qa_toggle_enabled">QA Flags ativadas</Text>
-<Text name="msg_qa_toggle_disabled">QA Flags desativadas</Text>
+<Text name="msg_qa_toggle_enabled">As QA Flags foram ativadas</Text>
+<Text name="msg_qa_toggle_disabled">As QA Flags foram desativadas</Text>
 <Text name="msg_qa_toggle_error">Não é possível alterar as QA Flags</Text>
 <Text name="msg_savedata_sfo_not_valid">O PARAM.SFO de: %s não é valido</Text>
 <Text name="msg_savedata_pfd_not_valid">O PARAM.PFD de: %s não é valido</Text>
