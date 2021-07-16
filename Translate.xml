@@ -1,0 +1,531 @@
+<!-- explore_plugin_full language strings -->
+<!-- Translate ONLY string inside <Text name="xxxxxxxxxxx">TRANSLATE THIS</Text> -->
+<!-- Don't move/delete special characters like  -->
+<Text name="msg_tool_package_file"><![CDATA[★ Gerenciador de pacotes]]></Text>
+<Text name="msg_tool_package_file_info">Gerencie seu conteúdo da PlayStation™Network e pacotes Homebrew.</Text>
+<Text name="msg_tool_rebug_file"><![CDATA[★ Essencias REBUG]]></Text>
+<Text name="msg_tool_rebug_file_info">INSTALE ferramentas essenciais para aproveitar ao máximo a experiência REBUG.</Text>
+<Text name="msg_tool_psn_file"><![CDATA[★ Conteúdo da PlayStation™Network]]></Text>
+<Text name="msg_tool_psn_file_info">Gerencie seu conteúdo baixado da PlayStation™Network.</Text>
+<Text name="msg_tool_install_file_info">INSTALE arquivos de pacote de dispositivos de armazenamento.</Text>
+<Text name="msg_tool_delete_file"><![CDATA[★ Excluir arquivos de pacote]]></Text>
+<Text name="msg_tool_delete_file_info">DELETE arquivos de pacote de dispositivos de armazenamento.</Text>
+<Text name="msg_tool_hdd0_file">PS3™ Armazenamento do sistema</Text>
+<Text name="msg_tool_hdd0_install_info">INSTALE a partir da pasta [dev_hdd0/packages] no armazenamento interno.</Text>
+<Text name="msg_tool_hdd0_delete_info">DELETE a partir da pasta [dev_hdd0/packages] no armazenamento interno.</Text>
+<Text name="msg_tool_usb_file">Pasta de pacotes</Text>
+<Text name="msg_tool_usb_install_info">INSTALE a partir da pasta [packages] do dispositivo de armazenamento.</Text>
+<Text name="msg_tool_usb_delete_info">DELETE a partir da pasta [packages] do dispositivo de armazenamento.</Text>
+<Text name="msg_tool_og_file">Pasta padrão</Text>
+<Text name="msg_tool_og_install_info">INSTALE a partir da [raiz] do dispositivo de armazenamento.</Text>
+<Text name="msg_tool_og_delete_info">DELETE a partir da [raiz] do dispositivo de armazenamento.</Text>
+<Text name="msg_tool_no_package">Nenhum arquivo de pacote encontrado.</Text>
+<Text name="msg_tool_no_psn_content">Nenhum conteúdo da PlayStation™Network encontrado.</Text>
+<Text name="msg_cfw_settings_title"><![CDATA[★ Ferramentas de firmware]]></Text>
+<Text name="msg_fsm_tools_title">Ferramentas de serviço avançadas</Text>
+<Text name="msg_basic_tools_title">Ferramentas básicas</Text>
+<Text name="msg_cobra_tools_title">Ferramentas cobra</Text>
+<Text name="msg_dump_tools_title">Ferramentas de despejo</Text>
+<Text name="msg_recovery_menu_title">Ferramentas de serviço</Text>
+<Text name="msg_ingame_settings_title">Configurações in-game</Text>
+<Text name="msg_fan_settings_title">Ferramentas de cooler</Text>
+<Text name="msg_fan_ps2_settings_title">Cooler no modo PS2</Text>
+<Text name="msg_soft_reboot_action_title">Reiniciar o sistema (Rápido)</Text>
+<Text name="msg_hard_reboot_action_title">Reiniciar o sistema (Completo)</Text>
+<Text name="msg_lv2_reboot_action_title">Reiniciar kernel</Text>
+<Text name="msg_fan_speed_title">Velocidade do cooler</Text>
+<Text name="msg_fan_speed_info">Mostra a velocidade atual do cooler  </Text>
+<Text name="msg_show_temp_title">Temperatura do sistema</Text>
+<Text name="msg_show_temp_info">Mostra a temperatura atual da CPU e RSX  </Text>
+<Text name="msg_show_idps_title">Mostrar IDPS</Text>
+<Text name="msg_show_idps_info">Mostra IDPS atual  </Text>
+<Text name="msg_show_psid_title">Mostrar PSID</Text>
+<Text name="msg_show_psid_info">Mostra o PSID atual  </Text>
+<Text name="msg_cobra_data_title">Informações cobra</Text>
+<Text name="msg_cobra_data_info">Mostra as informações atuais do payload cobra  </Text>
+<Text name="msg_cobra_mode_title">Payload cobra</Text>
+<Text name="msg_cobra_mode_info">Ativa/Desativa o payload cobra  </Text>
+<Text name="msg_fan_mode_disabled_title">Modo de controle do cooler: DESATIVADO</Text>
+<Text name="msg_fan_mode_disabled_info">Desativa o controle do cooler  </Text>
+<Text name="msg_fan_mode_syscon_title">Modo de controle do cooler: SYSCON</Text>
+<Text name="msg_fan_mode_syscon_info">Permite que o SYSCON do console controle a velocidade do cooler  </Text>
+<Text name="msg_fan_mode_payload_title">Modo de controle do cooler: PAYLOAD</Text>
+<Text name="msg_fan_mode_payload_info">Permite que o payload cobra controle a velocidade do cooler  </Text>
+<Text name="msg_fan_mode_manual_title">Modo de controle do cooler: MANUAL</Text>
+<Text name="msg_fan_mode_manual_info">Defina a velocidade do cooler para 0x70  </Text>
+<Text name="msg_fan_mode_max_title">Modo de controle do cooler: MAX</Text>
+<Text name="msg_fan_mode_max_info">Defina a velocidade do cooler para 0xFF  </Text>
+<Text name="msg_fan_ps2mode_disabled_title">Modo de controle do cooler no modo PS2: DESATIVADO</Text>
+<Text name="msg_fan_ps2mode_disabled_info">Desativa o controle do cooler no modo PS2  </Text>
+<Text name="msg_fan_ps2mode_syscon_title">Modo de controle do cooler no modo PS2: SYSCON</Text>
+<Text name="msg_fan_ps2mode_syscon_info">Permite que o SYSCON do PS3 controle a velocidade do cooler em jogos de PS2  </Text>
+<Text name="msg_fan_ps2mode_40_title">Modo de controle do cooler no modo PS2: 40%</Text>
+<Text name="msg_fan_ps2mode_40_info">Define a velocidade do cooler para para 0x66 em jogos de PS2  
+	  Não há controle do cooler em jogos de PS2, selecione com cuidado  </Text>
+<Text name="msg_fan_ps2mode_50_title">Modo de controle do cooler no modo PS2: 50%</Text>
+<Text name="msg_fan_ps2mode_50_info">Define a velocidade do cooler para 0x80 em jogos de PS2  
+	  Não há controle do cooler em jogos de PS2, selecione com cuidado  </Text>
+<Text name="msg_fan_ps2mode_60_title">Modo de controle do cooler no modo PS2: 60%</Text>
+<Text name="msg_fan_ps2mode_60_info">Define a velocidade do cooler para 0x9A em jogos de PS2  
+	  Não há controle do cooler em jogos de PS2, selecione com cuidado  </Text>
+<Text name="msg_fan_ps2mode_70_title">Modo de controle do cooler no modo PS2: 70%</Text>
+<Text name="msg_fan_ps2mode_70_info">Define a velocidade do cooler para 0xB4 em jogos de PS2  
+	  Não há controle do cooler em jogos de PS2, selecione com cuidado  </Text>
+<Text name="msg_fan_ps2mode_80_title">Modo de controle do cooler no modo PS2: 80%</Text>
+<Text name="msg_fan_ps2mode_80_info">Define a velocidade do cooler para 0xCE em jogos de PS2  
+	  Não há controle do cooler em jogos de PS2, selecione com cuidado  </Text>
+<Text name="msg_fan_ps2mode_90_title">Modo de controle do cooler no modo PS2: 90%</Text>
+<Text name="msg_fan_ps2mode_90_info">Define a velocidade do cooler para 0xE8 em jogos de PS2  
+	  Não há controle do cooler em  jogos de PS2, selecione com cuidado  </Text>
+<Text name="msg_view_log_title">Exibir registro</Text>
+<Text name="msg_view_log_info">Mostra o registro em /dev_hdd0/tmp/cfw_settings.log (webMAN Mod necessário)</Text>
+<Text name="msg_clean_log_title">Limpar arquivo de registro</Text>
+<Text name="msg_clean_log_info">Exclui o conteúdo do arquivo /dev_hdd0/tmp/cfw_settings.log  </Text>
+<Text name="msg_dump_idps_title">Despejar IDPS</Text>
+<Text name="msg_dump_idps_info">Salva a IDPS no arquivo de log  </Text>
+<Text name="msg_dump_psid_title">Despejar PSID</Text>
+<Text name="msg_dump_psid_info">Salva o PSID no arquivo de log  </Text>
+<Text name="msg_log_klic_title">Registrar o uso do KLicense</Text>
+<Text name="msg_log_klic_info">Salva o nome do arquivo e o klicensee no arquivo de log  </Text>
+<Text name="msg_log_secureid_title">Registrar o uso do ID de arquivo seguro</Text>
+<Text name="msg_log_secureid_info">Grava o nome dos dados salvos e a chave de ID do arquivo no arquivo de log  </Text>
+<Text name="msg_dump_disc_key_title">Despejar chave hash de discos</Text>
+<Text name="msg_dump_disc_key_info">Recupera a chave hash do disco de um jogo ORIGINAL  </Text>
+<Text name="msg_backup_registry_title">Fazer backup do xRegistry.sys</Text>
+<Text name="msg_backup_registry_info">Cria um backup do xRegistry.sys para /dev_usb ou /dev_hdd0  </Text>
+<Text name="msg_applicable_version_title">Exibir versão aplicável</Text>
+<Text name="msg_applicable_version_info">Exibe a versão mínima de downgrade  </Text>
+<Text name="msg_fs_check_title">Verificar sistema de arquivos</Text>
+<Text name="msg_fs_check_info">Reinicia o sistema e verifica o sistema de arquivos e o repara se necessário  </Text>
+<Text name="msg_rebuild_db_title">Reconstruir banco de dados</Text>
+<Text name="msg_rebuild_db_info">Reinicializa o sistema e reconstroí o banco de dados  </Text>
+<Text name="msg_recovery_mode_title">Modo de recuperação</Text>
+<Text name="msg_recovery_mode_info">Reinicia o sistema e entra no modo de recuperação (Não compatível com os modelos NAND!)  </Text>
+<Text name="msg_rsod_fix_title">Corrigir RSOD</Text>
+<Text name="msg_rsod_fix_info">Reinicializa a região VTRM para tentar corrigir o RSOD  </Text>
+<Text name="msg_enable_hvdbg_title">Ativar saída Proc. HV</Text>
+<Text name="msg_service_mode_title">Modo de serviço de fábrica</Text>
+<Text name="msg_service_mode_info">Ativa/Desativa o modo de serviço de fábrica (**NÃO INSTALE O CFW ENQUANTO NO FSM**)  </Text>
+<Text name="msg_remarry_bd_title">Recasar drive Blu-ray</Text>
+<Text name="msg_remarry_bd_info">Requer: Entrar no FSM e copiar o "eid_root_key" para /dev_usb  </Text>
+<Text name="msg_usb_firm_loader_title">Carregar firmware via USB</Text>
+<Text name="msg_usb_firm_loader_info">Redirecionar o acesso /dev_flash a um /dev_usb conectado</Text>
+<Text name="msg_enable_screenshot_title">Ativar captura de tela no jogo</Text>
+<Text name="msg_enable_recording_title">Ativar gravação de jogo</Text>
+<Text name="msg_override_sfo_title">Substituir SFO</Text>
+<Text name="msg_override_sfo_info">Substitui o atributo SFO para Ativar RemotePlay + SystemBGM em disco de jogos sem atualizações</Text>
+<Text name="msg_toggle_dlna_title">Servidor DLNA</Text>
+<Text name="msg_create_syscalls_title">Criar syscalls</Text>
+<Text name="msg_create_syscalls_info">Cria syscalls 6, 7, 8, 9, 10, 11, 15, 35  </Text>
+<Text name="msg_shutdown_action_title">Desligar o sistema</Text>
+<Text name="msg_shutdown_action_info">Desliga o console completamente</Text>
+<Text name="msg_toggle_coldboot_title">Logo inicial personalizado</Text>
+<Text name="msg_toggle_coldboot_info">Muda o coldboot.raf entre personalizado e original  </Text>
+<Text name="msg_power_options_title">Opções de energia</Text>
+<Text name="msg_hard_reboot_action_info">Reinicia o console completamente</Text>
+<Text name="msg_soft_reboot_action_info">Reinicia o console rapidamente</Text>
+<Text name="msg_lv2_reboot_action_info">Reinicia apenas o kernel LV2</Text>
+<Text name="msg_allow_restore_sc_title">Restaurar syscalls</Text>
+<Text name="msg_allow_restore_sc_info">Permite restaurar os syscalls através da "Atualização do Sistema"  </Text>
+<Text name="msg_toggle_sysconf_title">Versão do sistema personalizada</Text>
+<Text name="msg_toggle_sysconf_info">Muda entre a versão personalizada e original do sistema em "Informações do sistema"  </Text>
+<Text name="msg_qa_tools_title">Ferramentas QA</Text>
+<Text name="msg_check_qa_title">Checar status QA</Text>
+<Text name="msg_check_qa_info">Verifica se os sinalizadores QA estão ativados ou desativados  </Text>
+<Text name="msg_qa_enable_title">Ativar QA</Text>
+<Text name="msg_qa_enable_info">Ativa sinalizadores de QA por meio das "Configurações de rede" (Combo de botões: +++++)  </Text>
+<Text name="msg_qa_disable_title">Desativar QA</Text>
+<Text name="msg_qa_disable_info">Desativa sinalizadores QA em "Configurações de rede"  </Text>
+<Text name="msg_patch_savedata_title">Converter dados salvos</Text>
+<Text name="msg_patch_savedata_info">Converte os dados salvos em "/dev_usbXXX/PS3/SAVEDATA" para seus próprios dados salvos  </Text>
+<Text name="msg_show_accountid_title">Mostrar ID da conta</Text>
+<Text name="msg_show_accountid_info">Mostra o ID da conta do usuário atual  </Text>
+<Text name="msg_patch_accountid_title">Criar ID da conta</Text>
+<Text name="msg_patch_accountid_info">Cria um ID falso para o usuário atual no xRegistry  </Text>
+<Text name="msg_patch_accountid_overwrite_title">Substituir ID da conta</Text>
+<Text name="msg_patch_accountid_overwrite_info"> Substitui o ID da conta do usuário atual por um falso no xRegistry  </Text>
+<Text name="msg_button_assignment_title">Botão de Confirmação</Text>
+<Text name="msg_button_assignment_info">Muda o botão de confirmação entre  ou   </Text>
+<Text name="msg_xreg_settings_title">Ferramentas xRegistry</Text>
+<Text name="msg_skip_rif_title">Pular criação de licenças</Text>
+<Text name="msg_skip_rif_info">Ignora a substituição de arquivos de licenças (RIF) se eles já existirem  </Text>
+<Text name="msg_activate_account_title">Ativar conta</Text>
+<Text name="msg_activate_account_info">Cria o arquivo act.dat na conta local atual  </Text>
+<Text name="msg_remove_license_title">Desativar conta</Text>
+<Text name="msg_remove_license_info"> Exclui o arquivo de ativação do usuário atual act.dat permanentemente  </Text>
+<Text name="msg_backup_license_title">Fazer backup do arquivo de ativação</Text>
+<Text name="msg_backup_license_info">Cria um backup do act.dat para /dev_usb ou /dev_hdd0  </Text>
+<Text name="msg_ask_license_action">O arquivo de ativação atual para essa conta será removido permanentemente. Tem certeza?
+
+	Pressione  para continuar ou  para voltar</Text>
+<Text name="msg_ask_acc_overwrite_action">O ID atual da conta será sobrescrito. Tem certeza?
+
+	Pressione  para continuar ou  para voltar</Text>
+<Text name="msg_ask_fs_check_action">O sistema irá reiniciar e verificará o sistema de arquivos. Tem certeza?
+
+	Pressione  para continuar ou  para voltar</Text>
+<Text name="msg_ask_fsm_action">O sistema irá reiniciar e entrará no modo de serviço de fábrica. Tem certeza?
+
+	  NÃO INSTALE NENHUM FIRMWARE ENQUANTO ESTIVER NESTE MODO  
+
+	Pressione  para continuar ou  para voltar</Text>
+<Text name="msg_ask_rsod_fix_action">O sistema irá reiniciar e tentará corrigir o RSOD. Tem certeza?
+
+	Pressione  para continuar ou  para voltar</Text>
+<Text name="msg_ask_rebuild_db_action">O sistema irá reiniciar e reconstruirá o banco de dados. Tem certeza?
+
+	Pressione  para continuar ou  para voltar</Text>
+<Text name="msg_ask_recovery_action">O sistema irá reiniciar e entrará no modo de recuperação. Tem certeza?
+
+	  Este não é o modo de recuperação convencional, este modo só é útil para reinstalar o firmware  
+
+	Pressione  para continuar ou  para voltar</Text>
+<Text name="msg_load_kernel_title">Carregar kernel LV2</Text>
+<Text name="msg_load_kernel_info">Carrega o arquivo lv2_kernel.self do /dev_usb000 ou /dev_flash  </Text>
+<Text name="msg_whats_new_title">Aba "Novidades"</Text>
+<Text name="msg_whats_new_info">Ativa/Desativa a ativação da aba "Novidades" na guia "PlayStation™Network"  </Text>
+<Text name="msg_create_rif_title">Criar licenças</Text>
+<Text name="msg_create_rif_info">Cria licenças RIF de arquivos RAP existentes em "x:\exdata"  </Text>
+<Text name="msg_fan_mode_60_title">Temperatura máxima: 60°C</Text>
+<Text name="msg_fan_mode_60_info">Define a velocidade do cooler dinamicamente para manter o sistema a uma temperatura máxima de 60°C  </Text>
+<Text name="msg_fan_mode_65_title">Temperatura máxima: 65°C</Text>
+<Text name="msg_fan_mode_65_info">Define a velocidade do cooler dinamicamente para manter o sistema a uma temperatura máxima de 65°C  </Text>
+<Text name="msg_fan_mode_70_title">Temperatura máxima: 70°C</Text>
+<Text name="msg_fan_mode_70_info">Define a velocidade do cooler dinamicamente para manter o sistema a uma temperatura máxima de 70°C  </Text>
+<Text name="msg_fan_mode_75_title">Temperatura máxima: 75°C</Text>
+<Text name="msg_fan_mode_75_info">Define a velocidade do cooler dinamicamente para manter o sistema a uma temperatura máxima de 75°C  </Text>
+<Text name="msg_fan_dynamic_title">Controle do cooler dinâmico</Text>
+<Text name="msg_fan_manual_title">Velocidade manual</Text>
+<Text name="msg_fan_manual_40_title">Velocidade manual: 40%</Text>
+<Text name="msg_fan_manual_40_info">Define a velocidade do cooler estaticamente em 40% (0x67)  
+	  A velocidade escolhida será estática, não será alterada a qualquer momento automaticamente  </Text>
+<Text name="msg_fan_manual_45_title">Velocidade manual: 45%</Text>
+<Text name="msg_fan_manual_45_info">Define a velocidade do cooler estaticamente em 45% (0x75)  
+	  A velocidade escolhida será estática, não será alterada a qualquer momento automaticamente  </Text>
+<Text name="msg_fan_manual_50_title">Velocidade manual: 50%</Text>
+<Text name="msg_fan_manual_50_info">Define a velocidade do cooler estaticamente em 50% (0x80)  
+	  A velocidade escolhida será estática, não será alterado a qualquer momento automaticamente  </Text>
+<Text name="msg_fan_manual_55_title">Velocidade manual: 55%</Text>
+<Text name="msg_fan_manual_55_info">Define a velocidade do cooler estaticamente em 55% (0x8E)  
+	  A velocidade escolhida será estática, não será alterada a qualquer momento automaticamente  </Text>
+<Text name="msg_fan_manual_60_title">Velocidade manual: 60%</Text>
+<Text name="msg_fan_manual_60_info">Define a velocidade do cooler estaticamente em 60% (0x9B)  
+	  A velocidade escolhida será estática, não será alterada a qualquer momento automaticamente  </Text>
+<Text name="msg_fan_manual_65_title">Velocidade manual: 65%</Text>
+<Text name="msg_fan_manual_65_info">Define a velocidade do cooler estaticamente em 65% (0xA8)  
+	  A velocidade escolhida será estática, não será alterada a qualquer momento automaticamente  </Text>
+<Text name="msg_fan_manual_70_title">Velocidade manual: 70%</Text>
+<Text name="msg_fan_manual_70_info">Define a velocidade do cooler estaticamente em 70% (0xB5)  
+	  A velocidade escolhida será estática, não será alterada a qualquer momento automaticamente  </Text>
+<Text name="msg_fan_manual_75_title">Velocidade manual: 75%</Text>
+<Text name="msg_fan_manual_75_info">Define a velocidade do cooler estaticamente em 75% (0xC0)  
+	  A velocidade escolhida será estática, não será alterada a qualquer momento automaticamente  </Text>
+<Text name="msg_fan_manual_80_title">Velocidade manual: 80%</Text>
+<Text name="msg_fan_manual_80_info">Define a velocidade do cooler estaticamente em 80% (0xCE)  
+	  A velocidade escolhida será estática, não será alterada a qualquer momento automaticamente  </Text>
+<Text name="msg_fan_manual_85_title">Velocidade manual: 85%</Text>
+<Text name="msg_fan_manual_85_info">Define a velocidade do cooler estaticamente em 85% (0xDA)  
+	  A velocidade escolhida será estática, não será alterada a qualquer momento automaticamente  </Text>
+<Text name="msg_fan_manual_90_title">Velocidade manual: 90%</Text>
+<Text name="msg_fan_manual_90_info">Define a velocidade do cooler estaticamente em 90% (0xE7)  
+	  A velocidade escolhida será estática, não será alterada a qualquer momento automaticamente  </Text>
+<Text name="msg_cobra_version_title">Alternar Versão Cobra</Text>
+<Text name="msg_cobra_version_info">Alterna entre as versões de lançamento e depuração  </Text>
+<Text name="msg_psn_tools_title">Ferramentas PSN</Text>
+<Text name="msg_disable_syscalls_title">Desativar syscalls</Text>
+<Text name="msg_disable_syscalls_info">Desativa syscalls e remove arquivos de histórico  </Text>	
+<Text name="msg_dump_erk_title">Despejar ERK</Text>	
+<Text name="msg_dump_erk_info">Despeje eid_root_key em /dev_usb ou /dev_hdd0/tmp  </Text>
+<Text name="msg_dump_lv2_title">Despejar LV2</Text>
+<Text name="msg_dump_lv2_info">Despeje LV2 para /dev_usb ou /dev_hdd0/tmp  </Text>
+<Text name="msg_dump_lv1_title">Despejar LV1</Text>
+<Text name="msg_dump_lv1_info">Despeje LV1 para /dev_usb ou /dev_hdd0/tmp  </Text>
+<Text name="msg_file_manager_title">Gerenciador de arquivos</Text>
+<Text name="msg_fm_dev_all_title">All Active Devices</Text>
+<Text name="msg_fm_dev_all_info">Manage all active partitions  </Text>
+<Text name="msg_fm_dev_hdd0_title">Internal Hard Disk Drive 0</Text>
+<Text name="msg_fm_dev_hdd0_info">Manage PS3 files in /dev_hdd0  </Text>
+<Text name="msg_fm_dev_hdd1_title">Internal Hard Disk Drive 1</Text>
+<Text name="msg_fm_dev_hdd1_info">Manage PS3 cached files in /dev_hdd1  </Text>
+<Text name="msg_fm_dev_usb_title">USB Mass Storage Devices</Text>
+<Text name="msg_fm_dev_usb_info">Manage files on your USB devices  </Text>
+<Text name="msg_fm_dev_flash_title">Internal Flash Memory</Text>
+<Text name="msg_fm_dev_flash_info">Manage PS3 internal flash files  </Text>
+<Text name="msg_fm_dev_optical_title">Optical Disc</Text>
+<Text name="msg_fm_dev_optical_info"><![CDATA[Manage optical discs  ]]></Text>
+<Text name="msg_fm_dev_memorycard_title">Memory Cards</Text>
+<Text name="msg_fm_dev_memorycard_info">Manage memory cards  </Text>
+<Text name="msg_fm_dev_usb000_title">/dev_usb000</Text>
+<Text name="msg_fm_dev_usb000_info">Main port (Right hand side)  </Text>
+<Text name="msg_fm_dev_usb001_title">/dev_usb001</Text>
+<Text name="msg_fm_dev_usb001_info">Manage files in /dev_usb001  </Text>
+<Text name="msg_fm_dev_usb002_title">/dev_usb002</Text>
+<Text name="msg_fm_dev_usb002_info">Manage files in /dev_usb002  </Text>
+<Text name="msg_fm_dev_usb003_title">/dev_usb003</Text>
+<Text name="msg_fm_dev_usb003_info">Manage files in /dev_usb003  </Text>
+<Text name="msg_fm_dev_usb004_title">/dev_usb004</Text>
+<Text name="msg_fm_dev_usb004_info">Manage files in /dev_usb004  </Text>
+<Text name="msg_fm_dev_usb005_title">/dev_usb005</Text>
+<Text name="msg_fm_dev_usb005_info">Manage files in /dev_usb005  </Text>
+<Text name="msg_fm_dev_usb006_title">/dev_usb006</Text>
+<Text name="msg_fm_dev_usb006_info">Manage files in /dev_usb006  </Text>
+<Text name="msg_fm_dev_usb007_title">/dev_usb007</Text>
+<Text name="msg_fm_dev_usb007_info">Manage files in /dev_usb007  </Text>
+<Text name="msg_fm_dev_flash_item_title">/dev_flash</Text>
+<Text name="msg_fm_dev_flash_item_info">Main firmware partition (read only)  </Text>
+<Text name="msg_fm_dev_blind_item_title">/dev_blind</Text>
+<Text name="msg_fm_dev_blind_item_info">Main firmware partition (write access enabled)  </Text>
+<Text name="msg_fm_dev_rewrite_item_title">/dev_rewrite</Text>
+<Text name="msg_fm_dev_rewrite_item_info">Main firmware partition (write access enabled)  </Text>
+<Text name="msg_fm_dev_flash2_item_title">/dev_flash2</Text>
+<Text name="msg_fm_dev_flash2_item_info">Secondary flash partition (xregistry etc)  </Text>
+<Text name="msg_fm_dev_flash3_item_title">/dev_flash3</Text>
+<Text name="msg_fm_dev_flash3_item_info">Third flash partition  </Text>
+<Text name="msg_fm_dev_bdvd_title">/dev_bdvd</Text>
+<Text name="msg_fm_dev_bdvd_info"><![CDATA[Blu-Ray Disc  ]]></Text>
+<Text name="msg_fm_app_home_title">/app_home</Text>
+<Text name="msg_fm_app_home_info"><![CDATA[Virtual Blu-Ray Disc  ]]></Text>
+<Text name="msg_fm_dev_ps2disc_title">/dev_ps2disc</Text>
+<Text name="msg_fm_dev_ps2disc_info">PS2 Format Disc  </Text>
+<Text name="msg_fm_dev_ms_title">/dev_ms</Text>
+<Text name="msg_fm_dev_ms_info">Memory Stick Pro Duo  </Text>
+<Text name="msg_fm_dev_sd_title">/dev_sd</Text>
+<Text name="msg_fm_dev_sd_info">Secure Digital  </Text>
+<Text name="msg_fm_dev_cf_title">/dev_cf</Text>
+<Text name="msg_fm_dev_cf_info">Compact Flash  </Text>
+<Text name="msg_cobra_sc8_title">Verifique Syscall 8</Text>
+<Text name="msg_cobra_sc8_info">Verifica o status do Syscall 8 do Cobra</Text>
+<Text name="msg_mount_dev_blind_title">Alternar /dev_blind</Text>
+<Text name="msg_mount_dev_blind_info">  Monta / dev_flash como /dev_blind com permissões de gravação (USE COM CUIDADO!)  </Text>
+<Text name="msg_sort_date_title">Classifique os jogos por nome e data</Text>
+<Text name="msg_sort_date_info">Adiciona classificação com opções para A-Z e Novo-Velho  </Text>
+<Text name="msg_sort_name_title">Classificar jogos por nome</Text>
+<Text name="msg_sort_name_info">Adiciona classificação alfabética com opções para A-Z e Z-A  </Text>
+<Text name="msg_sort_creation_title">Classificar jogos com opções padrão</Text>
+<Text name="msg_sort_creation_info">Adiciona classificação oficial com Novo-Velho e Velho-Novo  </Text>
+
+<!-- xai_plugin language strings -->
+<!-- Translate ONLY string inside <Text name="xxxxxxxxxxx">TRANSLATE THIS</Text> -->
+<!-- Don't move/delete special characters like  -->
+<Text name="msg_rap_not_found">​​Nenhum arquivo RAP encontrado</Text>
+<Text name="msg_rif_create_error">A Licença não pôde ser criada: %s</Text>
+<Text name="msg_rif_created">1 licença foi criada</Text>
+<Text name="msg_rifs_created">%d licenças foram criadas</Text>
+<Text name="msg_nand_not_supported">Não compatível com NAND</Text>
+<Text name="msg_accountid_result">ID da conta: %s</Text>
+<Text name="msg_accountid_fake">ID da conta: %s (FALSEO)</Text>
+<Text name="msg_accountid_empty">ID da conta: Vazio</Text>
+<Text name="msg_create_syscalls_error">Não é possível criar syscalls</Text>
+<Text name="msg_create_syscalls_ok">Syscalls customizados criados</Text>
+<Text name="msg_cobra_info">Tipo de FW: %s
+	Versão do Cobra: %s
+	Versão do FW: %2X.%02X</Text>
+<Text name="msg_cobra_is_disabled">Cobra está desativada</Text>
+<Text name="msg_cobra_not_supported">Vesão Cobra deve ser 8.3 ou superior</Text>
+<Text name="msg_logfile_cleaned">Arquivo de registros limpo</Text>
+<Text name="msg_logfile_error">Erro na limpeza</Text>
+<Text name="msg_klicensee_enabled">Registro do KLicensee ativado</Text>
+<Text name="msg_klicensee_disabled">Registro Klicensee desativado</Text>
+<Text name="msg_secureid_enabled">Registro seguro de ID de arquivo ativado</Text>
+<Text name="msg_secureid_disabled">Registro seguro de ID de arquivo desativado</Text>
+<Text name="msg_gameplay_recording_enabled">Gravação de jogo ativada</Text>
+<Text name="msg_gameplay_recording_disabled">Gravação de jogo desativada</Text>
+<Text name="msg_screenshots_enabled">Capturas de tela XMB In-Game ativadas</Text>
+<Text name="msg_sfo_override_enabled">Sobreposição SFO ativado</Text>
+<Text name="msg_sfo_override_disabled">Sobreposição SFO desativada</Text>
+<Text name="msg_cant_disable_cobra">Não é possível desativar o Cobra</Text>
+<Text name="msg_cobra_disabled">Cobra desativado, reiniciando...</Text>
+<Text name="msg_cant_enable_cobra">Não é possível habilitar o cobra</Text>
+<Text name="msg_cobra_enabled">Cobra ativado, reiniciando...</Text>
+<Text name="msg_devblind_mount_error">Não é possível montar dev_blind</Text>
+<Text name="msg_devblind_unmount_error">Incapaz de desmontar dev_blind</Text>
+<Text name="msg_raf_swap_mod_error">Não é possível trocar coldboot.raf personalizado</Text>
+<Text name="msg_raf_swap_ori_error">Não é possível trocar o coldboot.raf original</Text>
+<Text name="msg_sysconf_swap_mod_error">Não é possível alternar "Informações do sistema" personalizadas</Text>
+<Text name="msg_sysconf_swap_ori_error">Não é possível alternar as "Informações do sistema" originais</Text>
+<Text name="msg_dlna_set_flag_error">Não é possível definir a sinalização DLNA</Text>
+<Text name="msg_dlna_enabled">DLNA ativado</Text>
+<Text name="msg_dlna_disabled">DLNA desativado</Text>
+<Text name="msg_read_eprom_failed">Falha ao ler EPROM</Text>
+<Text name="msg_hvproc_enabled">HV Proc ativado</Text>
+<Text name="msg_hvproc_disabled">HV Proc desativado</Text>
+<Text name="msg_write_eprom_failed">Falha ao gravar EPROM</Text>
+<Text name="msg_stage2_not_found">​​stage2.bin não encontrado</Text>
+<Text name="msg_no_coldboot_detected">Não foi possível encontrar coldboot.raf personalizado/original</Text>
+<Text name="msg_no_sysconf_detected">Não foi possível encontrar sysconf_plugin.rco personalizado/original</Text>
+<Text name="msg_mod_coldboot_enabled">Coldboot personalizado ativado</Text>
+<Text name="msg_ori_coldboot_enabled">Coldboot original ativado</Text>
+<Text name="msg_mod_sysconf_enabled">"Informações do sistema" personalizadas ativadas</Text>
+<Text name="msg_ori_sysconf_enabled">"Informações do sistema" originais ativadas</Text>
+<Text name="msg_act_backup_error">Não é possível criar o backup</Text>
+<Text name="msg_act_unable_read">Não é possível ler o arquivo de ativação</Text>
+<Text name="msg_backup_created">Backup criado em:
+	%s</Text>
+<Text name="msg_hdd_mount_error">Erro de montagem de HDD</Text>
+<Text name="msg_xregistry_open_error">Erro de abertura no xRegistry.sys</Text>
+<Text name="msg_devflash2_mount_error">Erro de montagem /dev_flash2/</Text>
+<Text name="msg_xregistry_backup_error">Não é possível criar backup</Text>
+<Text name="msg_usb_not_detected">Conecte um dispositivo USB</Text>
+<Text name="msg_fw_load_ok">Kernel LV2 carregado</Text>
+<Text name="msg_pm_read_fail">Falha ao ler a sinalização do modo de produto</Text>
+<Text name="msg_vtrm_init_fail">VTRM Init falhou</Text>
+<Text name="msg_vtrm_init_ok">VTRM Init bem-sucedido</Text>
+<Text name="msg_ss_server2_error_patch">Não é possível corrigir ss_server2</Text>
+<Text name="msg_rootkey_not_detected">Insira um dispositivo USB com eid_root_key</Text>
+<Text name="msg_eid2_size_get_error">Não é possível obter o tamanho EID2</Text>
+<Text name="msg_eid2_wrong_size">Tamanho EID2 errado</Text>
+<Text name="msg_eid2_get_error">Não é possível obter EID2</Text>
+<Text name="msg_eid2_create_keys_error">Não é possível criar chaves EID2</Text>
+<Text name="msg_eid2_cant_decrypt">Não é possível descriptografar o bloco P EID2</Text>
+<Text name="msg_eid2_rootkey_wrong_size">eid2/eid_root_key errado</Text>
+<Text name="msg_eid2_error_decrypt">Não é possível descriptografar o bloco S EID2</Text>
+<Text name="msg_bdvd_ar_off_error">Erro de detecção de solicitação automática de BDVD OFF</Text>
+<Text name="msg_cex_drive_init_pblock_error">CEX_drive_init_pblock() falhou</Text>
+<Text name="msg_bdvd_ar_on_error">Erro de detecção automática de solicitação automática de BDVD</Text>
+<Text name="msg_cex_drive_init_sblock_error">CEX_drive_init_sblock() falhou</Text>
+<Text name="msg_cex_drive_init_aacs_error">CEX_drive_init_AACS_HRL() falhou</Text>
+<Text name="msg_enable_fsm">Alternar o modo de serviço de fábrica</Text>
+<Text name="msg_cex_init_fail">CEX_drive_init() falhou</Text>
+<Text name="msg_cex_init_ok">CEX_drive_init() bem-sucedido</Text>
+<Text name="msg_insert_disc">Insira um disco de jogo</Text>
+<Text name="msg_dhk_dumped">Chave hash do disco despejada</Text>
+<Text name="msg_dhk_fail">Falha no despejo da chave hash do disco</Text>
+<Text name="msg_idps_dump_fail">Falha no despejo de IDPS</Text>
+<Text name="msg_idps_dumped">IDPS despejado</Text>
+<Text name="msg_idps_show">IDPS: %s</Text>
+<Text name="msg_psid_dump_fail">Falha no despejo de PSID</Text>
+<Text name="msg_psid_dumped">PSID despejado</Text>
+<Text name="msg_psid_show">PSID: %s</Text>
+<Text name="msg_hdd_open_error">Erro ao abrir o HDD</Text>
+<Text name="msg_recovery_mode_enabled">Modo de recuperação ativado
+	Reinicializando...</Text>
+<Text name="msg_recovery_mode_disabled">Modo de recuperação desativado</Text>
+<Text name="msg_pm_enabled">Modo de produto ativado</Text>
+<Text name="msg_pm_disabled">Modo de produto desativado</Text>
+<Text name="msg_eprom_unknown_flag">Sinalizador EPROM desconhecido</Text>
+<Text name="msg_applicable_version_fail">A versão aplicável falhou</Text>
+<Text name="msg_sys_storage_open_error">Erro sys_storage_open</Text>
+<Text name="msg_auth_bd_drive_error">Erro de autenticação da unidade BD</Text>
+<Text name="msg_minimum_downgrade">Downgrade mínimo: %x.%02x</Text>
+<Text name="msg_fan_speed">Velocidade do Cooler: 0x%X [%i%%]</Text>
+<Text name="msg_fan_temp">[CPU: %u°C] - [RSX: %u°C]</Text>
+<Text name="msg_syscalls_restore_disabled">Permitir restauração de syscalls desativado</Text>
+<Text name="msg_syscalls_restore_enabled">Permitir restauração de syscalls ativado</Text>
+<Text name="msg_skip_rif_disabled">Pular criação de licença desativado</Text>
+<Text name="msg_skip_rif_enabled">Pular criação de licença ativado</Text>
+<Text name="msg_account_act_deleted">Arquivo de ativação excluído com sucesso</Text>
+<Text name="msg_account_act_delete_error">Não foi possível remover o arquivo de ativação</Text>
+<Text name="msg_account_act_not_found">​​Não há arquivo de ativação nesta conta</Text>
+<Text name="msg_cobra_fan_mode_disabled">Controle do Cooler salvo: DESATIVADO</Text>
+<Text name="msg_cobra_fan_mode_syscon">Controle do de salvo: SYSCON</Text>
+<Text name="msg_cobra_fan_mode_payload">Controle do de salvo: PAYLOAD</Text>
+<Text name="msg_cobra_fan_mode_manual">Controle do de salvo: MANUAL</Text>
+<Text name="msg_cobra_fan_mode_max">Controle do de salvo: MAX</Text>
+<Text name="msg_qa_check_enabled">Sinalizadores QA ativados</Text>
+<Text name="msg_qa_check_disabled">Sinalizadores QA desativados</Text>
+<Text name="msg_qa_toggle_enabled">Sinalizadores QA ativados</Text>
+<Text name="msg_qa_toggle_disabled">SinalizadoreS QA desativados</Text>
+<Text name="msg_qa_toggle_error">Não é possível alternar sinalizadores QA</Text>
+<Text name="msg_savedata_sfo_not_valid">O PARAM.SFO de: %s não é valido</Text>
+<Text name="msg_savedata_pfd_not_valid">O PARAM.PFD de: %s não é valido</Text>
+<Text name="msg_savedata_unable_convert">Não é possível converter os dados salvos em: %s</Text>
+<Text name="msg_savedata_converted">%d dados salvos convertidos com sucesso
+	Copie através da XMB</Text>
+<Text name="msg_savedata_converted2">%d dados salvos convertidos com sucesso
+	Copie-os através da XMB</Text>
+<Text name="msg_savedata_unable_open_dir">Não foi possível abrir o diretório:
+	%s</Text>
+<Text name="msg_savedata_not_found">​​Nenhum dado salvo encontrado</Text>
+<Text name="msg_savedata_userid_fail">Não foi possível recuperar a ID do usuário do xRegistry para: %s</Text>
+<Text name="msg_savedata_accountid_fail">Não foi possível recuperar o ID da conta do xRegistry para: %s</Text>
+<Text name="msg_savedata_read_sfo_fail">Não foi possível ler os dados PARAM.SFO de: %s</Text>
+<Text name="msg_savedata_read_pfd_fail">Não foi possível ler os dados PARAM.PFD de: %s</Text>
+<Text name="msg_savedata_write_fail">Não foi possível salvar o arquivo convertido de: %s</Text>
+<Text name="msg_savedata_converting">Convertendo %s</Text>
+<Text name="msg_savedata_converting_wait">Convertendo, aguarde...</Text>
+<Text name="msg_xreg_open_error">Não foi possível abrir o xRegistry</Text>
+<Text name="msg_accountid_unable_find">Não foi possível encontrar a ID da conta atual</Text>
+<Text name="msg_accountid_not_empty">Já existe um ID nesta conta, use a opção de substituição se quiser substituí-lo</Text>
+<Text name="msg_accountid_error_autologin">Não é possível desativar 'autoSignInEnable'</Text>
+<Text name="msg_accountid_set_fake">ID falso definido, reiniciando...</Text>
+<Text name="msg_button_accept_x">Botão  definido como [Confirmar]
+	Reinicialize para salvar as alterações</Text>
+<Text name="msg_button_accept_o">Botão  definido como [Confirmar]
+	Reinicialize para salvar as alterações</Text>
+<Text name="msg_accountid_searching">Pesquisando ID da conta, por favor aguarde...</Text>
+<Text name="msg_accountid_overwriting">Substituindo ID da conta, aguarde...</Text>
+<Text name="msg_accountid_creating">Criando ID da conta, por favor aguarde...</Text>
+<Text name="msg_idps_not_valid">IDPS não é válida</Text>
+<Text name="msg_error_allocate_mem">Não é possível alocar a memória</Text>
+<Text name="msg_error_map_mem">Não é possível mapear a região da memória</Text>
+<Text name="msg_error_write_uart">Não é possível escrever UART virtual</Text>
+<Text name="msg_error_unexpected">Erro inesperado</Text>
+<Text name="msg_kernel_loaded">Kernel carregado, reiniciando...</Text>
+<Text name="msg_kernel_failed">Não foi possível carregar o kernel</Text>
+<Text name="msg_cobra_fan_ps2mode_disabled">Velocidade do Cooler no modo PS2 definida: DESATIVADA</Text>
+<Text name="msg_cobra_fan_ps2mode_syscon">Velocidade do Cooler no modo PS2 definida SYSCON</Text>
+<Text name="msg_cobra_fan_ps2mode_40">Velocidade do Cooler no modo PS2 definida: 40%</Text>
+<Text name="msg_cobra_fan_ps2mode_50">Velocidade do Cooler no modo PS2 definida: 50%</Text>
+<Text name="msg_cobra_fan_ps2mode_60">Velocidade do Cooler no modo PS2 definida: 60%</Text>
+<Text name="msg_cobra_fan_ps2mode_70">Velocidade do Cooler no modo PS2 definida: 70%</Text>
+<Text name="msg_cobra_fan_ps2mode_80">Velocidade do Cooler no modo PS2 definida: 80%</Text>
+<Text name="msg_cobra_fan_ps2mode_90">Velocidade do Cooler no modo PS2 definida: 90%</Text>
+<Text name="msg_cobra_enable_account_activated">Conta ativada</Text>
+<Text name="msg_cobra_enable_account_error">A conta não pôde ser ativada</Text>
+<Text name="msg_cobra_create_empty">Esta conta não tem um ID. Por favor, crie um ID falso por meio das "Ferramentas xRegistry"</Text>
+<Text name="msg_cobra_create_act_exist">Já existe um arquivo de ativação nesta conta. Exclua-o primeiro</Text>
+<Text name="msg_whats_new_enabled">Ativado com sucesso</Text>
+<Text name="msg_whats_new_disabled">Desativado com sucesso</Text>
+<Text name="msg_cobra_fan_manual_40">Velocidade manual do Cooler definida: 40%</Text>
+<Text name="msg_cobra_fan_manual_45">Velocidade manual do Cooler definida: 45%</Text>
+<Text name="msg_cobra_fan_manual_50">Velocidade manual do Cooler definida: 50%</Text>
+<Text name="msg_cobra_fan_manual_55">Velocidade manual do Cooler definida: 55%</Text>
+<Text name="msg_cobra_fan_manual_60">Velocidade manual do Cooler definida: 60%</Text>
+<Text name="msg_cobra_fan_manual_65">Velocidade manual do Cooler definida: 65%</Text>
+<Text name="msg_cobra_fan_manual_70">Velocidade manual do Cooler definida: 70%</Text>
+<Text name="msg_cobra_fan_manual_75">Velocidade manual do Cooler definida: 75%</Text>
+<Text name="msg_cobra_fan_manual_80">Velocidade manual do Cooler definida: 80%</Text>
+<Text name="msg_cobra_fan_manual_85">Velocidade manual do Cooler definida: 85%</Text>
+<Text name="msg_cobra_fan_manual_90">Velocidade manual do Cooler definida: 90%</Text>
+<Text name="msg_cobra_fan_dynamic_60">Temperatura máxima definida: 60°C</Text>
+<Text name="msg_cobra_fan_dynamic_65">Temperatura máxima definida: 65°C</Text>
+<Text name="msg_cobra_fan_dynamic_70">Temperatura máxima definida: 70°C</Text>
+<Text name="msg_cobra_fan_dynamic_75">Temperatura máxima definida: 75°C</Text>
+<Text name="msg_please_enable_cobra">Ative o Cobra primeiro</Text>
+<Text name="msg_cobra_release_enabled">Versão de lançamento do Cobra habilitada, reiniciando...</Text>
+<Text name="msg_cobra_release_error">Não é possível renomear a versão de lançamento</Text>
+<Text name="msg_cobra_debug_enabled">Versão de depuração do Cobra habilitada, reiniciando...</Text>
+<Text name="msg_cobra_debug_error">Incapaz de renomear a versão de depuração</Text>
+<Text name="msg_cobra_rename_error">Incapaz de renomear a versão atual do Cobra</Text>
+<Text name="msg_cobra_versions_error">Incapaz de encontrar versões Cobra</Text>
+<Text name="msg_syscalls_disabled">Syscalls desativados e arquivos de histórico excluídos</Text>
+<Text name="msg_syscalls_already_disabled">Syscalls CFW já desabilitados</Text>
+<Text name="msg_syscalls_disabling_error">Erro ao desativar syscalls</Text>
+<Text name="msg_hf_error">Erro ao excluir arquivos de histórico</Text>	
+<Text name="msg_dumping_erk">Dumping ERK, por favor aguarde...</Text>
+<Text name="msg_dump_erk_fail">Incapaz de despejar ERK. Por favor, tente novamente</Text>
+<Text name="msg_dump_erk_ok">ERK despejado em 
+	%s</Text>
+<Text name="msg_unsupported_firmware">Firmware sem suporte</Text>
+<Text name="msg_lv2_dumping">Despejando LV2, por favor aguarde...</Text>
+<Text name="msg_lv2_dumped">LV2 descarregado em
+	%s</Text>
+<Text name="msg_lv2_dump_error">Ocorreu um erro ao descarregar LV2</Text>
+<Text name="msg_lv1_dumping">Dumping LV1, por favor aguarde...</Text>
+<Text name="msg_lv1_dumped">LV1 descarregado em 
+	%s</Text>
+<Text name="msg_lv1_dump_error">Ocorreu um erro ao descarregar LV1</Text>
+<Text name="msg_cfw_syscalls_disabled">As syscalls do CFW estão desabilitadas</Text>
+<Text name="msg_syscall8_disabled">Syscall 8 desativado ou parcialmente desativado</Text>
+<Text name="msg_syscall8_status_enabled">Syscall 8 habilitado</Text>	
+<Text name="msg_syscall8_status_disabled">Syscall 8 desativado</Text>	
+<Text name="msg_devblind_mounted">dev_blind montado</Text>
+<Text name="msg_devblind_unmounted">dev_blind desmontado</Text>
+<Text name="msg_sort_games_completed">Concluído com sucesso, reiniciando...</Text>
+<Text name="msg_sort_games_error">Ocorreu um erro</Text>
+
+<!-- npsignin_plugin language strings -->
+<!-- Translate ONLY string inside <Text name="xxxxxxxxxxx">TRANSLATE THIS</Text> -->
+<!-- Don't move/delete special characters like  -->
+<Text name="System_information_1">Desative syscalls para fazer login na PlayStation™Network</Text>
+	<Text name="msg_signin_psn">PlayStation™Network: Desativado</Text>
