@@ -30,8 +30,8 @@
 <Text name="msg_ingame_settings_title">Configurações in-game</Text>
 <Text name="msg_fan_settings_title">Ferramentas de cooler</Text>
 <Text name="msg_fan_ps2_settings_title">Cooler no modo PS2</Text>
-<Text name="msg_soft_reboot_action_title">Reiniciar o sistema (Rápido)</Text>
-<Text name="msg_hard_reboot_action_title">Reiniciar o sistema (Completo)</Text>
+<Text name="msg_soft_reboot_action_title">Reiniciar o sistema (rápido)</Text>
+<Text name="msg_hard_reboot_action_title">Reiniciar o sistema (completo)</Text>
 <Text name="msg_lv2_reboot_action_title">Reiniciar kernel</Text>
 <Text name="msg_fan_speed_title">Velocidade do cooler</Text>
 <Text name="msg_fan_speed_info">Mostra a velocidade atual do cooler  </Text>
