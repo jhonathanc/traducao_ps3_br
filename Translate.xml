@@ -104,7 +104,7 @@
 <Text name="msg_rsod_fix_title">Corrigir RSOD</Text>
 <Text name="msg_rsod_fix_info">Reinicializa a região VTRM para tentar corrigir o RSOD  </Text>
 <Text name="msg_enable_hvdbg_title">Ativar saída Proc. HV</Text>
-<Text name="msg_service_mode_title">Modo de serviço de fábrica</Text>
+<Text name="msg_service_mode_title">Modo de serviço de fábrica - "FSM"</Text>
 <Text name="msg_service_mode_info">Ativa/Desativa o modo de serviço de fábrica (**NÃO INSTALE O CFW ENQUANTO NO FSM**)  </Text>
 <Text name="msg_remarry_bd_title">Recasar drive Blu-ray</Text>
 <Text name="msg_remarry_bd_info">Requer: Entrar no FSM e copiar o "eid_root_key" para /dev_usb  </Text>
