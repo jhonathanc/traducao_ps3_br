@@ -320,7 +320,7 @@
 <Text name="msg_cobra_info">Tipo de FW: %s
 	Versão do Cobra: %s
 	Versão do FW: %2X.%02X</Text>
-<Text name="msg_cobra_is_disabled">Cobra está desativada</Text>
+<Text name="msg_cobra_is_disabled">Cobra está desativado</Text>
 <Text name="msg_cobra_not_supported">Vesão Cobra deve ser 8.3 ou superior</Text>
 <Text name="msg_logfile_cleaned">Arquivo de registros limpo</Text>
 <Text name="msg_logfile_error">Erro na limpeza</Text>
