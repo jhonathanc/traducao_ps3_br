@@ -120,7 +120,7 @@
 <Text name="msg_shutdown_action_title">Desligar o sistema</Text>
 <Text name="msg_shutdown_action_info">Desliga o console completamente</Text>
 <Text name="msg_toggle_coldboot_title">Logo inicial personalizado</Text>
-<Text name="msg_toggle_coldboot_info">Muda o coldboot.raf entre personalizado e original  </Text>
+<Text name="msg_toggle_coldboot_info">Alterna o coldboot.raf entre personalizado e original  </Text>
 <Text name="msg_power_options_title">Opções de energia</Text>
 <Text name="msg_hard_reboot_action_info">Reinicia o console completamente</Text>
 <Text name="msg_soft_reboot_action_info">Reinicia o console rapidamente</Text>
@@ -128,7 +128,7 @@
 <Text name="msg_allow_restore_sc_title">Restaurar syscalls</Text>
 <Text name="msg_allow_restore_sc_info">Permite restaurar os syscalls através da "Atualização do Sistema"  </Text>
 <Text name="msg_toggle_sysconf_title">Versão do sistema personalizada</Text>
-<Text name="msg_toggle_sysconf_info">Muda entre a versão personalizada e original do sistema em "Informações do sistema"  </Text>
+<Text name="msg_toggle_sysconf_info">Alterna entre a versão personalizada e original do sistema em "Informações do sistema"  </Text>
 <Text name="msg_qa_tools_title">Ferramentas QA</Text>
 <Text name="msg_check_qa_title">Verificar QA Flags</Text>
 <Text name="msg_check_qa_info">Verifica se as QA Flags estão ativas ou não  </Text>
