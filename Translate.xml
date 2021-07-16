@@ -158,13 +158,13 @@
 <Text name="msg_ask_license_action">Tem certeza que deseja excluir permanentemente o arquivo de ativação da conta atual?
 
 	Pressione  para continuar ou  para voltar</Text>
-<Text name="msg_ask_acc_overwrite_action">O ID atual da conta será sobrescrito. Tem certeza?
+<Text name="msg_ask_acc_overwrite_action">Tem certeza que deseja sobrescrever o ID da conta atual?
 
 	Pressione  para continuar ou  para voltar</Text>
 <Text name="msg_ask_fs_check_action">O sistema irá reiniciar e verificará o sistema de arquivos. Tem certeza?
 
 	Pressione  para continuar ou  para voltar</Text>
-<Text name="msg_ask_fsm_action">O sistema irá reiniciar e entrará no modo de serviço de fábrica. Tem certeza?
+<Text name="msg_ask_fsm_action">Tem certeza que deseja reiniciar o sistema e entrar no modo de serviço de fábrica "FSM"?
 
 	  NÃO INSTALE NENHUM FIRMWARE ENQUANTO ESTIVER NESTE MODO  
 
@@ -172,12 +172,12 @@
 <Text name="msg_ask_rsod_fix_action">O sistema irá reiniciar e tentará corrigir o RSOD. Tem certeza?
 
 	Pressione  para continuar ou  para voltar</Text>
-<Text name="msg_ask_rebuild_db_action">O sistema irá reiniciar e reconstruirá o banco de dados. Tem certeza?
+<Text name="msg_ask_rebuild_db_action">O sistema irá reiniciar e reconstruirá a base de dados. Tem certeza?
 
 	Pressione  para continuar ou  para voltar</Text>
-<Text name="msg_ask_recovery_action">O sistema irá reiniciar e entrará no modo de recuperação. Tem certeza?
+<Text name="msg_ask_recovery_action">Tem certeza que deseja reiniciar o sistema e entrar no modo de recuperação?
 
-	  Este não é o modo de recuperação convencional, este modo só é útil para reinstalar o firmware  
+	  Este não é o modo de recuperação convencional, e só é útil para reinstalar o firmware  
 
 	Pressione  para continuar ou  para voltar</Text>
 <Text name="msg_load_kernel_title">Carregar kernel LV2</Text>
