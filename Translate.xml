@@ -152,10 +152,10 @@
 <Text name="msg_activate_account_title">Ativar conta</Text>
 <Text name="msg_activate_account_info">Cria o arquivo act.dat na conta local atual  </Text>
 <Text name="msg_remove_license_title">Desativar conta</Text>
-<Text name="msg_remove_license_info"> Exclui o arquivo de ativação do usuário atual act.dat permanentemente  </Text>
+<Text name="msg_remove_license_info"> Exclui permanentemente o arquivo de ativação act.dat do usuário atual  </Text>
 <Text name="msg_backup_license_title">Fazer backup do arquivo de ativação</Text>
 <Text name="msg_backup_license_info">Cria um backup do act.dat para /dev_usb ou /dev_hdd0  </Text>
-<Text name="msg_ask_license_action">O arquivo de ativação atual para essa conta será removido permanentemente. Tem certeza?
+<Text name="msg_ask_license_action">Tem certeza que deseja excluir permanentemente o arquivo de ativação da conta atual?
 
 	Pressione  para continuar ou  para voltar</Text>
 <Text name="msg_ask_acc_overwrite_action">O ID atual da conta será sobrescrito. Tem certeza?
@@ -414,7 +414,7 @@
 <Text name="msg_skip_rif_disabled">Pular criação de licença desativado</Text>
 <Text name="msg_skip_rif_enabled">Pular criação de licença ativado</Text>
 <Text name="msg_account_act_deleted">Arquivo de ativação excluído com sucesso</Text>
-<Text name="msg_account_act_delete_error">Não foi possível remover o arquivo de ativação</Text>
+<Text name="msg_account_act_delete_error">Não foi possível excluir o arquivo de ativação</Text>
 <Text name="msg_account_act_not_found">​​Não há arquivo de ativação nesta conta</Text>
 <Text name="msg_cobra_fan_mode_disabled">Controle da ventoinha salvo: DESATIVADO</Text>
 <Text name="msg_cobra_fan_mode_syscon">Controle do de salvo: SYSCON</Text>
