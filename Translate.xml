@@ -126,7 +126,7 @@
 <Text name="msg_soft_reboot_action_info">Reinicia o console rapidamente</Text>
 <Text name="msg_lv2_reboot_action_info">Reinicia apenas o kernel LV2</Text>
 <Text name="msg_allow_restore_sc_title">Restaurar syscalls</Text>
-<Text name="msg_allow_restore_sc_info">Permite restaurar os syscalls através da "Atualização do Sistema"  </Text>
+<Text name="msg_allow_restore_sc_info">Permite restaurar as syscalls através da "Atualização do Sistema"  </Text>
 <Text name="msg_toggle_sysconf_title">Versão do sistema personalizada</Text>
 <Text name="msg_toggle_sysconf_info">Alterna entre a versão personalizada e original do sistema em "Informações do sistema"  </Text>
 <Text name="msg_qa_tools_title">Ferramentas QA</Text>
