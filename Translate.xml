@@ -325,9 +325,9 @@
 <Text name="msg_logfile_cleaned">Arquivo de registros limpo</Text>
 <Text name="msg_logfile_error">Erro na limpeza</Text>
 <Text name="msg_klicensee_enabled">Registro do KLicensee ativado</Text>
-<Text name="msg_klicensee_disabled">Registro Klicensee desativado</Text>
-<Text name="msg_secureid_enabled">Registro seguro de ID de arquivo ativado</Text>
-<Text name="msg_secureid_disabled">Registro seguro de ID de arquivo desativado</Text>
+<Text name="msg_klicensee_disabled">Registro KLicensee desativado</Text>
+<Text name="msg_secureid_enabled">Registro de "Secure File ID" ativado</Text>
+<Text name="msg_secureid_disabled">Registro de "Secure File ID" desativado</Text>
 <Text name="msg_gameplay_recording_enabled">Gravação de jogo ativada</Text>
 <Text name="msg_gameplay_recording_disabled">Gravação de jogo desativada</Text>
 <Text name="msg_screenshots_enabled">Capturas de tela XMB In-Game ativadas</Text>
