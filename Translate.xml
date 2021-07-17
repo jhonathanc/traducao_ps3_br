@@ -517,8 +517,8 @@
 <Text name="msg_lv1_dump_error">Ocorreu um erro ao fazer dump da LV1</Text>
 <Text name="msg_cfw_syscalls_disabled">As syscalls do CFW estão desabilitadas</Text>
 <Text name="msg_syscall8_disabled">Syscall 8 desativado ou parcialmente desativado</Text>
-<Text name="msg_syscall8_status_enabled">Syscall 8 habilitado</Text>	
-<Text name="msg_syscall8_status_disabled">Syscall 8 desativado</Text>	
+<Text name="msg_syscall8_status_enabled">Syscall 8 ativada</Text>
+<Text name="msg_syscall8_status_disabled">Syscall 8 desativada</Text>
 <Text name="msg_devblind_mounted">dev_blind montado</Text>
 <Text name="msg_devblind_unmounted">dev_blind desmontado</Text>
 <Text name="msg_sort_games_completed">Concluído com sucesso, reiniciando...</Text>
