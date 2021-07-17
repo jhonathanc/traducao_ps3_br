@@ -157,29 +157,29 @@
 <Text name="msg_backup_license_info">Cria um backup do act.dat para /dev_usb ou /dev_hdd0  </Text>
 <Text name="msg_ask_license_action">Tem certeza que deseja excluir permanentemente o arquivo de ativação da conta atual?
 
-	Pressione  para continuar ou  para voltar</Text>
+	Pressione  para confirmar ou  para voltar</Text>
 <Text name="msg_ask_acc_overwrite_action">Tem certeza que deseja sobrescrever o ID da conta atual?
 
-	Pressione  para continuar ou  para voltar</Text>
-<Text name="msg_ask_fs_check_action">O sistema irá reiniciar e verificará o sistema de arquivos. Tem certeza?
+	Pressione  para confirmar ou  para voltar</Text>
+<Text name="msg_ask_fs_check_action">Tem certeza que deseja reiniciar e verificar o sistema de arquivos?
 
-	Pressione  para continuar ou  para voltar</Text>
+	Pressione  para confirmar ou  para voltar</Text>
 <Text name="msg_ask_fsm_action">Tem certeza que deseja reiniciar o sistema e entrar no modo de serviço de fábrica "FSM"?
 
 	  NÃO INSTALE NENHUM FIRMWARE ENQUANTO ESTIVER NESTE MODO  
 
-	Pressione  para continuar ou  para voltar</Text>
-<Text name="msg_ask_rsod_fix_action">O sistema irá reiniciar e tentará corrigir o RSOD. Tem certeza?
+	Pressione  para confirmar ou  para voltar</Text>
+<Text name="msg_ask_rsod_fix_action">Tem certeza que deseja reiniciar o sistema para tentar corrigir o RSOD?
 
-	Pressione  para continuar ou  para voltar</Text>
-<Text name="msg_ask_rebuild_db_action">O sistema irá reiniciar e reconstruirá a base de dados. Tem certeza?
+	Pressione  para confirmar ou  para voltar</Text>
+<Text name="msg_ask_rebuild_db_action">Tem certeza que deseja reiniciar o sistema para reconstruir a base de dados?
 
-	Pressione  para continuar ou  para voltar</Text>
-<Text name="msg_ask_recovery_action">Tem certeza que deseja reiniciar o sistema e entrar no modo de recuperação?
+	Pressione  para confirmar ou  para voltar</Text>
+<Text name="msg_ask_recovery_action">Tem certeza que deseja reiniciar o sistema no modo de recuperação?
 
 	  Este não é o modo de recuperação convencional, e só é útil para reinstalar o firmware  
 
-	Pressione  para continuar ou  para voltar</Text>
+	Pressione  para confirmar ou  para voltar</Text>
 <Text name="msg_load_kernel_title">Carregar kernel LV2</Text>
 <Text name="msg_load_kernel_info">Carrega o arquivo lv2_kernel.self do /dev_usb000 ou /dev_flash  </Text>
 <Text name="msg_whats_new_title">Aba "Novidades"</Text>
