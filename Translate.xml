@@ -498,8 +498,8 @@
 <Text name="msg_cobra_debug_error">Incapaz de renomear a versão de depuração</Text>
 <Text name="msg_cobra_rename_error">Incapaz de renomear a versão atual do Cobra</Text>
 <Text name="msg_cobra_versions_error">Incapaz de encontrar versões Cobra</Text>
-<Text name="msg_syscalls_disabled">Syscalls desativados e arquivos de histórico excluídos</Text>
-<Text name="msg_syscalls_already_disabled">Syscalls CFW já desabilitados</Text>
+<Text name="msg_syscalls_disabled">Syscalls desativadas e arquivos de histórico excluídos</Text>
+<Text name="msg_syscalls_already_disabled">Syscalls CFW já desabilitadas</Text>
 <Text name="msg_syscalls_disabling_error">Erro ao desativar syscalls</Text>
 <Text name="msg_hf_error">Erro ao excluir arquivos de histórico</Text>	
 <Text name="msg_dumping_erk">Realizando dump da ERK, por favor aguarde...</Text>
@@ -527,5 +527,5 @@
 <!-- npsignin_plugin language strings -->
 <!-- Translate ONLY string inside <Text name="xxxxxxxxxxx">TRANSLATE THIS</Text> -->
 <!-- Don't move/delete special characters like  -->
-<Text name="System_information_1">Desative syscalls para fazer login na PlayStation™Network</Text>
+<Text name="System_information_1">Desative as syscalls para fazer login na PlayStation™Network</Text>
 <Text name="msg_signin_psn">PlayStation™Network: Desativado</Text>
