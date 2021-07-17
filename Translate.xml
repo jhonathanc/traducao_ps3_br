@@ -194,7 +194,7 @@
 <Text name="msg_fan_mode_70_info">Define a velocidade da ventoinha dinamicamente para manter o sistema a uma temperatura máxima de 70°C  </Text>
 <Text name="msg_fan_mode_75_title">Temperatura máxima: 75°C</Text>
 <Text name="msg_fan_mode_75_info">Define a velocidade da ventoinha dinamicamente para manter o sistema a uma temperatura máxima de 75°C  </Text>
-<Text name="msg_fan_dynamic_title">Controle da ventoinha dinâmico</Text>
+<Text name="msg_fan_dynamic_title">Controle dinâmico da ventoinha</Text>
 <Text name="msg_fan_manual_title">Velocidade manual</Text>
 <Text name="msg_fan_manual_40_title">Velocidade manual: 40%</Text>
 <Text name="msg_fan_manual_40_info">Define a velocidade da ventoinha estaticamente em 40% (0x67)  
