@@ -183,7 +183,7 @@
 <Text name="msg_load_kernel_title">Carregar kernel LV2</Text>
 <Text name="msg_load_kernel_info">Carrega o arquivo lv2_kernel.self do /dev_usb000 ou /dev_flash  </Text>
 <Text name="msg_whats_new_title">Aba "Novidades"</Text>
-<Text name="msg_whats_new_info">Ativa/Desativa a ativação da aba "Novidades" na guia "PlayStation™Network"  </Text>
+<Text name="msg_whats_new_info">Ativa/desativa a opção da aba "Novidades" na guia "PlayStation™Network"  </Text>
 <Text name="msg_create_rif_title">Criar licenças</Text>
 <Text name="msg_create_rif_info">Cria licenças RIF de arquivos RAP existentes em "x:\exdata"  </Text>
 <Text name="msg_fan_mode_60_title">Temperatura máxima: 60°C</Text>
