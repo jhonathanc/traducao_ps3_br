@@ -335,7 +335,7 @@
 <Text name="msg_sfo_override_disabled">Sobreposição SFO desativada</Text>
 <Text name="msg_cant_disable_cobra">Não é possível desativar o Cobra</Text>
 <Text name="msg_cobra_disabled">Cobra desativado, reiniciando...</Text>
-<Text name="msg_cant_enable_cobra">Não é possível habilitar o Cobra</Text>
+<Text name="msg_cant_enable_cobra">Não é possível ativar o Cobra</Text>
 <Text name="msg_cobra_enabled">Cobra ativado, reiniciando...</Text>
 <Text name="msg_devblind_mount_error">Não é possível montar dev_blind</Text>
 <Text name="msg_devblind_unmount_error">Incapaz de desmontar dev_blind</Text>
@@ -430,7 +430,7 @@
 <Text name="msg_savedata_pfd_not_valid">O PARAM.PFD de: %s não é valido</Text>
 <Text name="msg_savedata_unable_convert">Não é possível converter os dados salvos em: %s</Text>
 <Text name="msg_savedata_converted">%d dados salvos convertidos com sucesso
-	Copie através da XMB</Text>
+	Copie-os através da XMB</Text>
 <Text name="msg_savedata_converted2">%d dados salvos convertidos com sucesso
 	Copie-os através da XMB</Text>
 <Text name="msg_savedata_unable_open_dir">Não foi possível abrir o diretório:
@@ -528,4 +528,4 @@
 <!-- Translate ONLY string inside <Text name="xxxxxxxxxxx">TRANSLATE THIS</Text> -->
 <!-- Don't move/delete special characters like  -->
 <Text name="System_information_1">Desative syscalls para fazer login na PlayStation™Network</Text>
-	<Text name="msg_signin_psn">PlayStation™Network: Desativado</Text>
+<Text name="msg_signin_psn">PlayStation™Network: Desativado</Text>
