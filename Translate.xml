@@ -293,11 +293,11 @@
 <Text name="msg_fm_dev_sd_info">Secure Digital  </Text>
 <Text name="msg_fm_dev_cf_title">/dev_cf</Text>
 <Text name="msg_fm_dev_cf_info">Compact Flash  </Text>
-<Text name="msg_cobra_sc8_title">Verifique Syscall 8</Text>
+<Text name="msg_cobra_sc8_title">Verificar Syscall 8</Text>
 <Text name="msg_cobra_sc8_info">Verifica o status do Syscall 8 do Cobra</Text>
 <Text name="msg_mount_dev_blind_title">Alternar /dev_blind</Text>
 <Text name="msg_mount_dev_blind_info">  Monta / dev_flash como /dev_blind com permissões de gravação (USE COM CUIDADO!)  </Text>
-<Text name="msg_sort_date_title">Classifique os jogos por nome e data</Text>
+<Text name="msg_sort_date_title">Classificar os jogos por nome e data</Text>
 <Text name="msg_sort_date_info">Adiciona classificação com opções para A-Z e Novo-Velho  </Text>
 <Text name="msg_sort_name_title">Classificar jogos por nome</Text>
 <Text name="msg_sort_name_info">Adiciona classificação alfabética com opções para A-Z e Z-A  </Text>
