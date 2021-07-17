@@ -444,7 +444,7 @@
 <Text name="msg_savedata_converting">Convertendo %s</Text>
 <Text name="msg_savedata_converting_wait">Convertendo, aguarde...</Text>
 <Text name="msg_xreg_open_error">Não foi possível abrir o xRegistry</Text>
-<Text name="msg_accountid_unable_find">Não foi possível encontrar a ID da conta atual</Text>
+<Text name="msg_accountid_unable_find">Não foi possível encontrar o ID da conta atual</Text>
 <Text name="msg_accountid_not_empty">Já existe um ID nesta conta, use a opção de substituição se quiser substituí-lo</Text>
 <Text name="msg_accountid_error_autologin">Não é possível desativar 'autoSignInEnable'</Text>
 <Text name="msg_accountid_set_fake">ID falso definido, reiniciando...</Text>
@@ -463,7 +463,7 @@
 <Text name="msg_kernel_loaded">Kernel carregado, reiniciando...</Text>
 <Text name="msg_kernel_failed">Não foi possível carregar o kernel</Text>
 <Text name="msg_cobra_fan_ps2mode_disabled">Velocidade da ventoinha no modo PS2 definida: DESATIVADA</Text>
-<Text name="msg_cobra_fan_ps2mode_syscon">Velocidade da ventoinha no modo PS2 definida SYSCON</Text>
+<Text name="msg_cobra_fan_ps2mode_syscon">Velocidade da ventoinha no modo PS2 definida: SYSCON</Text>
 <Text name="msg_cobra_fan_ps2mode_40">Velocidade da ventoinha no modo PS2 definida: 40%</Text>
 <Text name="msg_cobra_fan_ps2mode_50">Velocidade da ventoinha no modo PS2 definida: 50%</Text>
 <Text name="msg_cobra_fan_ps2mode_60">Velocidade da ventoinha no modo PS2 definida: 60%</Text>
