@@ -455,7 +455,7 @@
 <Text name="msg_accountid_searching">Pesquisando ID da conta, por favor aguarde...</Text>
 <Text name="msg_accountid_overwriting">Substituindo ID da conta, aguarde...</Text>
 <Text name="msg_accountid_creating">Criando ID da conta, por favor aguarde...</Text>
-<Text name="msg_idps_not_valid">IDPS não é válida</Text>
+<Text name="msg_idps_not_valid">IDPS inválida</Text>
 <Text name="msg_error_allocate_mem">Não é possível alocar a memória</Text>
 <Text name="msg_error_map_mem">Não é possível mapear a região da memória</Text>
 <Text name="msg_error_write_uart">Não é possível escrever UART virtual</Text>
