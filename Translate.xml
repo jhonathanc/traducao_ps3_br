@@ -233,8 +233,8 @@
 <Text name="msg_cobra_version_info">Alterna entre as versões de lançamento e depuração  </Text>
 <Text name="msg_psn_tools_title">Ferramentas PSN</Text>
 <Text name="msg_disable_syscalls_title">Desativar syscalls</Text>
-<Text name="msg_disable_syscalls_info">Desativa syscalls e remove arquivos de histórico  </Text>	
-<Text name="msg_dump_erk_title">Realizar dump da ERK</Text>	
+<Text name="msg_disable_syscalls_info">Desativa syscalls e remove arquivos de histórico  </Text>
+<Text name="msg_dump_erk_title">Realizar dump da ERK</Text>
 <Text name="msg_dump_erk_info">Grava a eid_root_key em /dev_usb ou /dev_hdd0/tmp  </Text>
 <Text name="msg_dump_lv2_title">Realizar dump da LV2</Text>
 <Text name="msg_dump_lv2_info">Grava a LV2 em /dev_usb ou /dev_hdd0/tmp  </Text>
@@ -501,7 +501,7 @@
 <Text name="msg_syscalls_disabled">Syscalls desativadas e arquivos de histórico excluídos</Text>
 <Text name="msg_syscalls_already_disabled">Syscalls CFW já desabilitadas</Text>
 <Text name="msg_syscalls_disabling_error">Erro ao desativar syscalls</Text>
-<Text name="msg_hf_error">Erro ao excluir arquivos de histórico</Text>	
+<Text name="msg_hf_error">Erro ao excluir arquivos de histórico</Text>
 <Text name="msg_dumping_erk">Realizando dump da ERK, por favor aguarde...</Text>
 <Text name="msg_dump_erk_fail">Incapaz de fazer dump da ERK. Por favor, tente novamente</Text>
 <Text name="msg_dump_erk_ok">Dump da ERK efetuado em
