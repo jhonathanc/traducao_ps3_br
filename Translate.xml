@@ -313,10 +313,10 @@
 <Text name="msg_rifs_created">%d licenças foram criadas</Text>
 <Text name="msg_nand_not_supported">Não compatível com NAND</Text>
 <Text name="msg_accountid_result">ID da conta: %s</Text>
-<Text name="msg_accountid_fake">ID da conta: %s (FALSEO)</Text>
+<Text name="msg_accountid_fake">ID da conta: %s (FALSA)</Text>
 <Text name="msg_accountid_empty">ID da conta: Vazio</Text>
 <Text name="msg_create_syscalls_error">Não é possível criar syscalls</Text>
-<Text name="msg_create_syscalls_ok">Syscalls customizados criados</Text>
+<Text name="msg_create_syscalls_ok">Syscalls customizadas criadas</Text>
 <Text name="msg_cobra_info">Tipo de FW: %s
 	Versão do Cobra: %s
 	Versão do FW: %2X.%02X</Text>
