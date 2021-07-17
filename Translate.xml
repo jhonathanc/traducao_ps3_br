@@ -499,7 +499,7 @@
 <Text name="msg_cobra_rename_error">Incapaz de renomear a versão atual do Cobra</Text>
 <Text name="msg_cobra_versions_error">Incapaz de encontrar versões Cobra</Text>
 <Text name="msg_syscalls_disabled">Syscalls desativadas e arquivos de histórico excluídos</Text>
-<Text name="msg_syscalls_already_disabled">Syscalls CFW já desabilitadas</Text>
+<Text name="msg_syscalls_already_disabled">Syscalls CFW já desativadas</Text>
 <Text name="msg_syscalls_disabling_error">Erro ao desativar syscalls</Text>
 <Text name="msg_hf_error">Erro ao excluir arquivos de histórico</Text>
 <Text name="msg_dumping_erk">Realizando dump da ERK, por favor aguarde...</Text>
@@ -515,8 +515,8 @@
 <Text name="msg_lv1_dumped">Dump da LV1 efetuado em
 	%s</Text>
 <Text name="msg_lv1_dump_error">Ocorreu um erro ao fazer dump da LV1</Text>
-<Text name="msg_cfw_syscalls_disabled">As syscalls do CFW estão desabilitadas</Text>
-<Text name="msg_syscall8_disabled">Syscall 8 desativado ou parcialmente desativado</Text>
+<Text name="msg_cfw_syscalls_disabled">As syscalls do CFW estão desativadas</Text>
+<Text name="msg_syscall8_disabled">Syscall 8 desativada ou parcialmente desativada</Text>
 <Text name="msg_syscall8_status_enabled">Syscall 8 ativada</Text>
 <Text name="msg_syscall8_status_disabled">Syscall 8 desativada</Text>
 <Text name="msg_devblind_mounted">dev_blind montado</Text>
