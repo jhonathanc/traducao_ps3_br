@@ -294,7 +294,7 @@
 <Text name="msg_fm_dev_cf_title">/dev_cf</Text>
 <Text name="msg_fm_dev_cf_info">Compact Flash  </Text>
 <Text name="msg_cobra_sc8_title">Verificar Syscall 8</Text>
-<Text name="msg_cobra_sc8_info">Verifica o status do Syscall 8 do Cobra</Text>
+<Text name="msg_cobra_sc8_info">Verifica o status da Syscall 8 do Cobra</Text>
 <Text name="msg_mount_dev_blind_title">Alternar /dev_blind</Text>
 <Text name="msg_mount_dev_blind_info">  Monta / dev_flash como /dev_blind com permissões de gravação (USE COM CUIDADO!)  </Text>
 <Text name="msg_sort_date_title">Classificar os jogos por nome e data</Text>
