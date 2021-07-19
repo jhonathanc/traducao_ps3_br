@@ -98,7 +98,7 @@
 <Text name="msg_fs_check_title">Verificar sistema de arquivos</Text>
 <Text name="msg_fs_check_info">Reinicia o sistema e verifica o sistema de arquivos e o repara se necessário  </Text>
 <Text name="msg_rebuild_db_title">Reconstruir banco de dados</Text>
-<Text name="msg_rebuild_db_info">Reinicializa o sistema e reconstrói o banco de dados  </Text>
+<Text name="msg_rebuild_db_info">Reinicia o sistema e reconstrói o banco de dados  </Text>
 <Text name="msg_recovery_mode_title">Modo de recuperação</Text>
 <Text name="msg_recovery_mode_info">Reinicia o sistema e entra no modo de recuperação (Não compatível com os modelos NAND!)  </Text>
 <Text name="msg_rsod_fix_title">Corrigir RSOD</Text>
@@ -398,7 +398,7 @@
 <Text name="msg_psid_show">PSID: %s</Text>
 <Text name="msg_hdd_open_error">Erro ao abrir o HDD</Text>
 <Text name="msg_recovery_mode_enabled">Modo de recuperação ativado
-	Reinicializando...</Text>
+	Reiniciando...</Text>
 <Text name="msg_recovery_mode_disabled">Modo de recuperação desativado</Text>
 <Text name="msg_pm_enabled">Modo de produto ativado</Text>
 <Text name="msg_pm_disabled">Modo de produto desativado</Text>
@@ -449,9 +449,9 @@
 <Text name="msg_accountid_error_autologin">Não é possível desativar 'autoSignInEnable'</Text>
 <Text name="msg_accountid_set_fake">ID falso definido, reiniciando...</Text>
 <Text name="msg_button_accept_x">Botão  definido como [Confirmar]
-	Reinicialize para salvar as alterações</Text>
+	Reinicie o sistema para salvar as alterações</Text>
 <Text name="msg_button_accept_o">Botão  definido como [Confirmar]
-	Reinicialize para salvar as alterações</Text>
+	Reinicie para salvar as alterações</Text>
 <Text name="msg_accountid_searching">Pesquisando ID da conta, por favor aguarde...</Text>
 <Text name="msg_accountid_overwriting">Substituindo ID da conta, aguarde...</Text>
 <Text name="msg_accountid_creating">Criando ID da conta, por favor aguarde...</Text>
