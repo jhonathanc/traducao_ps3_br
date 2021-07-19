@@ -451,7 +451,7 @@
 <Text name="msg_button_accept_x">Botão  definido como [Confirmar]
 	Reinicie o sistema para salvar as alterações</Text>
 <Text name="msg_button_accept_o">Botão  definido como [Confirmar]
-	Reinicie para salvar as alterações</Text>
+	Reinicie o sistema para salvar as alterações</Text>
 <Text name="msg_accountid_searching">Pesquisando ID da conta, por favor aguarde...</Text>
 <Text name="msg_accountid_overwriting">Substituindo ID da conta, aguarde...</Text>
 <Text name="msg_accountid_creating">Criando ID da conta, por favor aguarde...</Text>
