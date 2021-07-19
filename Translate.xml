@@ -298,11 +298,11 @@
 <Text name="msg_mount_dev_blind_title">Alternar /dev_blind</Text>
 <Text name="msg_mount_dev_blind_info">  Monta / dev_flash como /dev_blind com permissões de gravação (USE COM CUIDADO!)  </Text>
 <Text name="msg_sort_date_title">Classificar os jogos por nome e data</Text>
-<Text name="msg_sort_date_info">Adiciona classificação com opções para A-Z e Novo-Velho  </Text>
+<Text name="msg_sort_date_info">Adiciona classificação com opções de A-Z e "Data de criação" (decrescente)  </Text>
 <Text name="msg_sort_name_title">Classificar jogos por nome</Text>
-<Text name="msg_sort_name_info">Adiciona classificação alfabética com opções para A-Z e Z-A  </Text>
-<Text name="msg_sort_creation_title">Classificar jogos com opções padrão</Text>
-<Text name="msg_sort_creation_info">Adiciona classificação oficial com Novo-Velho e Velho-Novo  </Text>
+<Text name="msg_sort_name_info">Adiciona classificação alfabética com opções de A-Z e Z-A  </Text>
+<Text name="msg_sort_creation_title">Classificar jogos com as opções padrões</Text>
+<Text name="msg_sort_creation_info">Classificação oficial por "Data de criação" (crescente e decrescente)  </Text>
 
 <!-- xai_plugin language strings -->
 <!-- Translate ONLY string inside <Text name="xxxxxxxxxxx">TRANSLATE THIS</Text> -->
@@ -315,15 +315,15 @@
 <Text name="msg_accountid_result">ID da conta: %s</Text>
 <Text name="msg_accountid_fake">ID da conta: %s (FALSA)</Text>
 <Text name="msg_accountid_empty">ID da conta: Vazio</Text>
-<Text name="msg_create_syscalls_error">Não é possível criar syscalls</Text>
+<Text name="msg_create_syscalls_error">Não foi possível criar as syscalls</Text>
 <Text name="msg_create_syscalls_ok">Syscalls customizadas criadas</Text>
 <Text name="msg_cobra_info">Tipo de FW: %s
 	Versão do Cobra: %s
 	Versão do FW: %2X.%02X</Text>
 <Text name="msg_cobra_is_disabled">Cobra está desativado</Text>
 <Text name="msg_cobra_not_supported">Vesão Cobra deve ser 8.3 ou superior</Text>
-<Text name="msg_logfile_cleaned">Arquivo de registros limpo</Text>
-<Text name="msg_logfile_error">Erro na limpeza</Text>
+<Text name="msg_logfile_cleaned">Arquivo de log limpo</Text>
+<Text name="msg_logfile_error">Erro ao limpar arquivo de log</Text>
 <Text name="msg_klicensee_enabled">Registro do KLicensee ativado</Text>
 <Text name="msg_klicensee_disabled">Registro KLicensee desativado</Text>
 <Text name="msg_secureid_enabled">Registro de "Secure File ID" ativado</Text>
