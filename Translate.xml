@@ -97,8 +97,8 @@
 <Text name="msg_applicable_version_info">Exibe a versão mínima de downgrade  </Text>
 <Text name="msg_fs_check_title">Verificar sistema de arquivos</Text>
 <Text name="msg_fs_check_info">Reinicia o sistema e verifica o sistema de arquivos e o repara se necessário  </Text>
-<Text name="msg_rebuild_db_title">Reconstruir base de dados</Text>
-<Text name="msg_rebuild_db_info">Reinicializa o sistema e reconstrói a base de dados  </Text>
+<Text name="msg_rebuild_db_title">Reconstruir banco de dados</Text>
+<Text name="msg_rebuild_db_info">Reinicializa o sistema e reconstrói o banco de dados  </Text>
 <Text name="msg_recovery_mode_title">Modo de recuperação</Text>
 <Text name="msg_recovery_mode_info">Reinicia o sistema e entra no modo de recuperação (Não compatível com os modelos NAND!)  </Text>
 <Text name="msg_rsod_fix_title">Corrigir RSOD</Text>
@@ -172,7 +172,7 @@
 <Text name="msg_ask_rsod_fix_action">Tem certeza que deseja reiniciar o sistema para tentar corrigir o RSOD?
 
 	Pressione  para confirmar ou  para voltar</Text>
-<Text name="msg_ask_rebuild_db_action">Tem certeza que deseja reiniciar o sistema para reconstruir a base de dados?
+<Text name="msg_ask_rebuild_db_action">Tem certeza que deseja reiniciar o sistema para reconstruir o banco de dados?
 
 	Pressione  para confirmar ou  para voltar</Text>
 <Text name="msg_ask_recovery_action">Tem certeza que deseja reiniciar o sistema no modo de recuperação?
